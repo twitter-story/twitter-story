@@ -23,10 +23,9 @@ example: @user123 's tweet containing the #specific_hashtag:
 
 **@user123:**
 
-text text text text
+>text text text text
 
-**#specific_hashtag**
-
+- #specific_hashtag
 ---
 
 ## trello link:
