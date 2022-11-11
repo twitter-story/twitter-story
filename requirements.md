@@ -53,4 +53,9 @@ depending on Tweet.
 1. Security : Maintain the privacy and security of information of users that use our app and any account on twitter.
 1. Usability : we are carful to make our app user friendly and non much required to reach information.
 
+The security was already exist because the twitter doesnt allowed to access private data of users,and from our side we wont show any information that can be sensitive of twitter user even if it accessable ,and we wont implement any function that show or share sensitive information of our app users.
+
+Recarding to usability we are careful to discribe everything that user need to dealing with our app to help him use in very quick and easily way.
+whichs make our project be testable for testability.
+
  
