@@ -43,7 +43,10 @@ depending on Tweet.
  
 ### Data Flow
  
-
+ First, the user will enter our app, then he will see several dialogs each offering a certain service, some of them need to press button to show Information ,
+ other one You need to type inside the box a bit to get information or do something based on it as shown below: 
+ ![image](./twitter_story.png)
+ 
  
 ## Non-Functional Requirements (301 & 401 only)
  
