@@ -11,7 +11,7 @@
 
 ---
 
-## description:
+## Description:
 
 Scrapping the list of top trending hashtags on Twitter and visualize the analytics of them to show the most interactive ones.
 
@@ -28,7 +28,7 @@ example: @user123 's tweet containing the #specific_hashtag:
 - #specific_hashtag
 ---
 
-## trello link:
+## Trello link:
 
 * [trello](https://trello.com/invite/b/E4QiduQj/ATTI6541443c64a4b5db46606ecf6ba4c70a9CBEB9A6/401-group-3)
 
