@@ -32,4 +32,14 @@ example: @user123 's tweet containing the #specific_hashtag:
 
 * [trello](https://trello.com/invite/b/E4QiduQj/ATTI6541443c64a4b5db46606ecf6ba4c70a9CBEB9A6/401-group-3)
 
+--- 
+## prep 4 
+
+## WireFrame - user story
+![image](https://user-images.githubusercontent.com/109732571/201479694-7a823735-4a32-4907-95f9-a92c9ce3cfd5.png)
+ 
+# ----
+## Domain:
+
+![image](https://user-images.githubusercontent.com/109732571/201480305-b9dc7443-ad8d-4110-b700-ade06a418ee8.png)
 
