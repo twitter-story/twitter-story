@@ -27,6 +27,7 @@ def user_tweets(user):
 
     return df
 
+
 if __name__ == '__main__':
     df=user_tweets('BillGates')
     # df.to_csv('tweet.csv')
