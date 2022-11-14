@@ -25,7 +25,7 @@ def tweet(query):
     for i in range(len(tweet)):
         All_tweets+=f'''
             tweet {i+1} : {tweet[i]}
-            ----------------------------
+            --------------------------
             '''
     return All_tweets
     # return df['Tweet']
