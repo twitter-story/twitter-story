@@ -5,8 +5,8 @@ from dotenv import load_dotenv
 
 def autho():
     '''
-    A function that takes the username of the Twitter user   
-    and return the user's Tweets as a dataframe... 
+    A function that takes authentication from Twitter API by passing 
+    the API Key, Key Secret, Access Token, and Token Secretinto it...
     '''
     load_dotenv()
     api_key=os.getenv("api_key")
