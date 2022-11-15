@@ -20,7 +20,3 @@ def trends(Trending_in):
         WW_trends_results.append(o)
 
     return Jo_trends_results,WW_trends_results
-
-
-    
-

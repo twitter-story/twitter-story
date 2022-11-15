@@ -22,9 +22,11 @@ def tweet(query):
     All_tweets='''
         '''
     tweet=df['Tweet']
+    user=df['User']
     for i in range(len(tweet)):
         All_tweets+=f'''
-            tweet {i+1} : {tweet[i]}
+            tweet {i+1} : UserName:{user[i]} 
+            {tweet[i]}
             ----------------------------
             '''
     return All_tweets
@@ -33,5 +35,4 @@ def tweet(query):
 if __name__=="__main__":
     query=input()
     tweet=tweet(query)
-    x=tweet['Tweet'][0].replace('\n',' ')
-    print(x)
+    print(tweet)

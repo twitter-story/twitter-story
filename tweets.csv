@@ -1,0 +1,176 @@
+,Tweets,Subjectivity,Polarity,Analysis
+0,"US President Biden shakes hands with Chinese President Xi Jinping in Bali, stressing the need to avoid conflict ",0.0,0.0,Neutral
+1,"Ukraine's President Zelensky visits recently recaptured city Kherson, telling troops ""we are moving forward"" ",0.25,0.0,Neutral
+2,"Istanbul blast which killed six and injured 81 was act of terrorism, possibly carried out by a woman, Turkey's vice president says ",0.5,-0.1,Negative
+3,Explosion hits busy shopping area in centre of Istanbul with several people reported injured ,0.15,0.05,Positive
+4,Democrats retain majority control of US Senate after President Joe Biden’s party projected to win key race in Nevada ,0.7,0.4,Positive
+5,"Keith Levene, a founding member of The Clash and guitarist for Public Image Ltd, has died aged 65, his friend says ",0.23333333333333334,-0.05,Negative
+6,"Democrats projected to win seat in Arizona, leaving the race for the US Senate neck and neck with two states to go ",0.4,0.8,Positive
+7,"Ukraine's army ""almost in full control"" of strategic city of Kherson after Russian withdrawal, Ukrainian defence spokesman tells BBC ",0.275,0.175,Positive
+8,Man arrested in Scottish hospital is ruled to be missing US fugitive who faked his own death ,0.525,0.19999999999999998,Positive
+9,"All Russian troops have withdrawn from occupied Ukrainian city of Kherson and the surrounding area, Russia's defence ministry says ",0.0,0.0,Neutral
+10,"UK economy shrank by 0.2% between July and September in what is widely expected to be start of recession
+",0.4,-0.1,Negative
+11,Full England squad announced for World Cup in Qatar ,0.55,0.35,Positive
+12,"Russia to withdraw troops from key Ukrainian city Kherson, the only regional centre they had captured since invasion began ",1.0,0.0,Neutral
+13,"Nurses across UK vote to strike in pay dispute but emergency care will not be affected, says union ",0.0,0.0,Neutral
+14,"WhatsApp and Facebook owner Meta to cut 11,000 jobs worldwide, owner Mark Zuckerberg announces ",0.0,0.0,Neutral
+15,Online furniture retailer Made goes into administration with the expected loss of up to 500 jobs ,0.4,-0.1,Negative
+16,Sir Gavin Williamson resigns as UK government minister after bullying allegations and says he aims to “clear my name of any wrongdoing” ,0.3833333333333333,0.10000000000000002,Positive
+17,"Actor Leslie Phillips, best known for appearing in the Carry On comedy films, has died aged 98
+
+",0.35,0.45,Positive
+18,"At least 19 people confirmed dead after Tanzanian passenger plane crashes into Lake Victoria, with others rescued from the wreckage ",0.6,-0.033333333333333326,Negative
+19,"Firebomb attack at Dover immigration centre was primarily motivated by an extremist right-wing ideology, police say ",0.5,0.4,Positive
+20,"Detainees armed with ""various weaponry"" caused disturbance at London immigration centre, Home Office says ",0.5,0.0,Neutral
+21,"Manchester Arena attack victim might have survived if the emergency response had not been ""inadequate"", report finds ",0.05,-0.07500000000000001,Negative
+22,"“This will still come as a shock to many people”
+
+Bank of England’s decision to increase interest rates to 3% is a “jumbo rise”, says BBC’s Economics editor Faisal Islam
+
+ ",0.5,0.5,Positive
+23,"UK interest rate rises to 3%, up from 2.25% - the biggest single increase for 33 years ",0.21428571428571427,-0.07142857142857142,Negative
+24,Former Pakistan Prime Minister Imran Khan shot in apparent attempt on his life during protest march ,0.175,0.025,Positive
+25,"UK Prime Minister Rishi Sunak will now attend COP27 climate conference, after earlier saying he was too busy focusing on UK economy ",0.4,0.05,Positive
+26,"UK counter-terrorism police now leading investigation into firebombing of Dover immigration centre on Sunday, and suspect named by police ",0.0,0.0,Neutral
+27,"US rapper Takeoff, part of best-selling hip-hop trio Migos, shot dead in Houston aged 28, US media reports ",0.4,-0.15000000000000002,Negative
+28,Former UK health secretary Matt Hancock suspended as a Conservative MP after joining cast of ITV's I'm A Celebrity ,0.0,0.0,Neutral
+29,BP reports £7.1bn quarterly profit - more than double the amount it made at this time last year - due to high oil and gas prices ,0.2963333333333333,0.10700000000000001,Positive
+30,"Missile strikes reported across Ukraine, including the capital Kyiv, days after Russia blamed Ukraine for drone attack on its Black Sea Fleet ",0.43333333333333335,-0.16666666666666666,Negative
+31,Brazil’s Jair Bolsonaro fails to win a second term as president after former leader Lula returns in run-off ,0.175,0.07500000000000001,Positive
+32,"Bridge collapses in India's Gujarat state sending hundreds plunging into a river, with at least 32 people confirmed dead ",0.6,-0.033333333333333326,Negative
+33,"Emergency services at migrant processing centre in Dover, UK, after Reuters reports a man threw petrol bombs before killing himself ",0.0,0.0,Neutral
+34,"Most victims of Seoul crush were teenagers or adults in their 20s, the fire service says - follow updates ",0.5,0.5,Positive
+35,"Fifty-nine people dead and 150 injured in crush during Halloween celebrations in South Korea's capital, Seoul ",0.4,-0.2,Negative
+36,"Dozens of people in Halloween crowds treated for cardiac arrest in nightlife area of South Korean capital Seoul, officials say ",0.0,-0.05,Negative
+37,"Russia halts participation in Ukraine grain corridor deal citing ""massive drone attack"" on its Black Sea Fleet ",0.7166666666666667,-0.08333333333333333,Negative
+38,"Jerry Lee Lewis, notorious singer behind Great Balls of Fire, dies aged 87 ",0.6166666666666667,0.10000000000000002,Positive
+39,"""You have shown absolutely no remorse and it appears that you are in complete denial as to what you did""
+
+Judge Marks sentences Jemma Mitchell for killing of Mee Kuen Chong
+
+ ",0.65,0.0,Neutral
+40,Woman who murdered and decapitated her friend given minimum 34-year jail term in sentencing broadcast live from UK court ,0.25,0.018181818181818174,Positive
+41,"Elon Musk completes his $44bn takeover of Twitter and fires several top executives, US media report ",0.25,0.25,Positive
+42,"One dead and several injured, including on loan Arsenal footballer Pablo Marí, in mass stabbing in Italy, media report ",0.4000000000000001,-0.26666666666666666,Negative
+43,"UK Prime Minister Rishi Sunak will not attend the COP27 climate conference in Egypt next month, No 10 says ",0.0,0.0,Neutral
+44,"Prime Minister Rishi Sunak says he will fix mistakes made by Liz Truss as he warns of ""profound economic crisis"" facing UK ",0.6,0.14166666666666666,Positive
+45,"See the moment Rishi Sunak meets King Charles at Buckingham Palace as he becomes the UK's third prime minister in a year
+
+Follow live ",0.25,0.06818181818181818,Positive
+46,"""I know brighter days lie ahead""
+
+UK's shortest-serving PM Liz Truss leaves Downing Street with family
+
+",0.0,0.0,Neutral
+47,Rishi Sunak to take over as UK prime minister on Tuesday morning after meeting King Charles ,0.0,0.0,Neutral
+48,"""I pledge that I will serve you with integrity and humility""
+
+Rishi Sunak promises to ""work day in day out to deliver for the British people"" in first public speech since being named next UK PM
+
+ ",0.09999999999999999,0.0625,Positive
+49,Rishi Sunak speaks publicly for the first time since being named UK's next prime minister ,0.13333333333333333,0.08333333333333333,Positive
+50," Sir Graham Brady, chairman of 1922 Committee of Conservative MPs, announces Rishi Sunak as Tory leader and next prime minister
+
+ ",0.0,0.0,Neutral
+51,"Rishi Sunak set to become the UK's first British Asian prime minister, as Penny Mordaunt withdraws from Conservative Party leadership race ",0.1111111111111111,0.08333333333333333,Positive
+52,Boris Johnson drops out of race to be UK Conservative Party leader and PM - follow live updates ,0.5,0.13636363636363635,Positive
+53,"Xi Jinping secures a historic third term, cementing his position as China's most powerful leader since Mao Zedong ",0.375,0.2,Positive
+54,"12-year-old boy dies and man pulled from rubble after garage wall collapses in Essex, UK 
+",0.0,0.0,Neutral
+55,"Committee investigating former US President Donald Trump over 6 January riots issues summons ordering him to testify and hand over key documents
+
+",0.5,0.0,Neutral
+56,"Ex-US President Donald Trump's former top adviser Steve Bannon sentenced to four months in jail after refusing to testify to Congress over 6 January riots
+
+",0.16666666666666666,0.13333333333333333,Positive
+57,"Labour MP Christian Matheson should be suspended from UK House of Commons for four weeks for ""serious sexual misconduct"", says parliamentary watchdog ",0.5,0.05555555555555556,Positive
+58,"UK government borrowing rose last month, and retail sales fell as shops were hit by cost-of-living concerns and Queen’s funeral closures ",0.5083333333333333,0.3,Positive
+59,"Anne Sacoolas admits causing Harry Dunn's death by careless driving in 2019, in case that sparked row between US and UK governments ",0.9,-0.5,Negative
+60,"""I cannot deliver the mandate on which I was elected by the Conservative Party""
+
+UK Prime Minister Liz Truss resigns
+
+ ",0.0,0.0,Neutral
+61,"There will be a leadership election within a week, UK Prime Minister Liz Truss says in resignation statement ",0.0,0.0,Neutral
+62,Liz Truss to resign as UK prime minister after 45 days in office ,0.0,0.0,Neutral
+63,"Grant Shapps to be UK home secretary after Suella Braverman's departure six weeks into the job 
+
+",0.0,0.0,Neutral
+64,"Suella Braverman has resigned as UK home secretary, adding to turmoil in PM Liz Truss's government 
+
+",0.0,0.0,Neutral
+65,"Hong Kong pro-democracy protester gives his account of violence at China's consulate in Manchester, UK ",0.0,0.0,Neutral
+66,"""I am completely committed to the triple lock and so is the chancellor""
+
+UK PM Liz Truss commits to increasing pensions in line with inflation during PMQs
+
+ ",0.4,0.1,Positive
+67,"UK PM Liz Truss tells MPs she is committed to raising pensions in line with inflation, after No 10 fuelled speculation pledge would be dropped ",0.0,0.0,Neutral
+68,"Up to 45 babies may have survived if they had received better care at East Kent NHS Hospitals Trust in the UK, review finds ",0.5,0.5,Positive
+69,"Russia begins evacuation of key Ukrainian city of Kherson, seized during invasion, as Kyiv's forces counter-attack ",1.0,0.0,Neutral
+70,"Cost of living in UK rises 10.1% in the 12 months to September 
+
+Updates ",0.0,0.0,Neutral
+71,"One of China's most senior diplomats in the UK was involved in violence against protesters in Manchester on Sunday, a British MP says ",0.25,0.25,Positive
+72,"President Zelensky says 30% of Ukraine's power stations have been ""destroyed"" in the past eight days, as Russia steps up infrastructure attacks ",0.25,-0.25,Negative
+73," Asked if she accepts that her policies since taking office have ""made it harder for people to pay their bills"", UK PM Liz Truss says ""we went too far and too fast"" 
+
+ ",0.5333333333333333,0.06666666666666667,Positive
+74,"""I will lead the Conservatives into the next general election""
+
+UK PM Liz Truss says she's ""sticking around"", but wants to ""say sorry for the mistakes that have been made""
+
+ ",0.4,-0.0625,Negative
+75,"Military plane crashes in residential area of southern Russian town of Yeysk, with footage showing flames pouring from tower block ",0.03333333333333333,-0.03333333333333333,Negative
+76,"Chancellor Jeremy Hunt confirms that all the tax measures announced in the growth plan three weeks ago that have not started parliamentary legislation will be reversed
+
+ 
+
+",0.0,0.0,Neutral
+77,"UK Chancellor Jeremy Hunt reverses almost all tax measures set out in mini-budget, leaving PM Liz Truss's original plan in tatters
+
+",0.75,0.375,Positive
+78,New UK Chancellor Jeremy Hunt to set out plans for tax and spending in a statement later today - two weeks earlier than expected ,0.3386363636363636,0.009090909090909087,Positive
+79,"Kyiv has been attacked by kamikaze drones, Ukraine says, one week after widespread Russian strikes on the country ",0.0,0.0,Neutral
+80,"Manchester United footballer Mason Greenwood charged with attempted rape, engaging in controlling behaviour and assault, CPS says ",0.7,0.4,Positive
+81,"""We are not going to be able to cut taxes as quickly as we wanted to and some taxes will have to go up""
+
+Chancellor says keeping the rises in interest rates as low as possible means ""we have to give certainty to markets"" over funding plans
+
+ ",0.60625,0.20833333333333331,Positive
+82,"UK Chancellor Jeremy Hunt tells BBC that some taxes will have to go up and he will ask all areas of government to find ""difficult"" savings
+",1.0,-0.5,Negative
+83,"Robbie Coltrane obituary: Actor who could be funny or serious, but always compelling ",0.7555555555555555,0.07222222222222223,Positive
+84,"Actor Robbie Coltrane, who played Hagrid in the Harry Potter films, has died at 72 ",0.0,0.0,Neutral
+85,"""The way we are delivering our mission right now has to change""
+
+UK Prime Minister Liz Truss announces U-turn on corporation tax - she will keep the planned increase in order to ""reassure the markets of our fiscal discipline""
+
+ ",0.5357142857142857,0.2857142857142857,Positive
+86,"UK Prime Minister Liz Truss to keep increase in corporation tax in reversal of plan in mini-budget 
+
+",0.0,0.0,Neutral
+87,"UK Prime Minister Liz Truss about to hold press conference after sacking her chancellor, with another U-turn expected on the government's mini-budget",0.4,-0.1,Negative
+88,"Jeremy Hunt appointed new UK chancellor, after Kwasi Kwarteng sacked by PM Liz Truss 
+
+",0.45454545454545453,0.13636363636363635,Positive
+89,"Kwasi Kwarteng confirms he was sacked as chancellor by UK Prime Minister Liz Truss 
+
+",0.0,0.0,Neutral
+90,"Kwasi Kwarteng out as UK chancellor after mini-budget sparked financial turmoil and revolt from Conservative MPs
+
+",0.0,0.0,Neutral
+91,"UK Prime Minister Liz Truss to hold news conference later today amid reports of U-turn over mini-budget tax measures
+
+Latest ",0.45,0.25,Positive
+92,"Royal Mail says it plans to make up to 6,000 people redundant by next August, blaming ongoing strikes and financial losses ",0.06666666666666667,-0.06666666666666667,Negative
+93,The January 6 committee votes to compel Donald Trump to testify to Congress over riot where his supporters stormed US Capitol ,0.0,0.0,Neutral
+94,"Russia says it will evacuate people from Kherson, a region it has partly occupied since early in the invasion, as Ukrainian forces advance ",0.3,0.1,Positive
+95,Jury recommends life in prison for Parkland gunman who killed 17 people in 2018 attack on Marjory Stoneman Douglas High School in US ,0.26999999999999996,-0.020000000000000004,Negative
+96,US conspiracy theorist Alex Jones ordered to pay victims' families $965m in damages after branding 2012 Sandy Hook school shooting a hoax ,0.0,0.0,Neutral
+97,"Human remains found by police searching for Leah Croucher who went missing three years ago aged 19 in Milton Keynes, UK
+
+",0.18333333333333335,-0.10000000000000002,Negative
+98,"TikTok taking up to 70% of money donated to Syrian displaced families begging on the app, BBC investigation finds ",0.0,0.0,Neutral
+99,"UK economy unexpectedly shrank in August, falling by 0.3%, official data shows ",1.0,0.1,Positive
