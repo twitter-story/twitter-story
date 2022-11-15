@@ -124,7 +124,7 @@ class Tweet(tk.Tk):
             All_tweets+=f'''
             {tweet}
             '''
-        return All_tweets
+        return x
 
 
     def search_Tweets(self):
