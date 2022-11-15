@@ -25,9 +25,8 @@ def tweet(query):
     user=df['User']
     for i in range(len(tweet)):
         All_tweets+=f'''
-            tweet {i+1} : UserName:{user[i]} 
-            {tweet[i]}
-            ----------------------------
+            tweet {i+1} : {tweet[i]}
+            --------------------------
             '''
     return All_tweets
     # return df['Tweet']
