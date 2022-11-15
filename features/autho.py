@@ -4,6 +4,10 @@ from dotenv import load_dotenv
 
 
 def autho():
+    '''
+    A function that takes the username of the Twitter user   
+    and return the user's Tweets as a dataframe... 
+    '''
     load_dotenv()
     api_key=os.getenv("api_key")
     key_secret=os.getenv("key_secret")
