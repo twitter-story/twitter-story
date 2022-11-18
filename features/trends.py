@@ -1,6 +1,6 @@
 from autho import autho
 
-def trends(Trending_in):
+def trends():
     api=autho()
 
 
