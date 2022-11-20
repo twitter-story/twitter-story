@@ -1,177 +1,120 @@
 ,Tweets,Subjectivity,Polarity,Analysis
-0,"Alcohol sales to be banned at World Cup stadiums, Fifa announces - changing its stance two days before tournament starts ",0.0,0.0,Neutral
-1,Nancy Pelosi standing down as Democratic leader in the US House of Representatives after nearly two decades in charge ,0.34444444444444444,-0.02777777777777779,Negative
-2,"Three men found guilty of murder for shooting down a passenger plane flying over eastern Ukraine in 2014, killing 298 people ",0.6444444444444445,-0.3277777777777778,Negative
-3,"Typical UK household energy bill to rise to £3,000 a year from April, but with extra support for the poorest
+0, It is tragic how far The New York Times has fallen – basically just boring af far left brainwashing at this point. The boring part is truly unforgivable!,0.7435064935064936,-0.3448051948051948,Negative
+1,World Cup starts soon! Follow on Twitter for best coverage by far.,0.65,0.55,Positive
+2, 🤣,0.0,0.0,Neutral
+3, Sure as night follows day …,0.8888888888888888,0.5,Positive
+4,  Hey stop defaming me!,0.0,0.0,Neutral
+5, 🔥🔥,0.0,0.0,Neutral
+6,Twitter is ALIVE,0.4,0.1,Positive
+7,    Good idea,0.6000000000000001,0.7,Positive
+8,   Their posts are super boring,0.8333333333333333,-0.33333333333333337,Negative
+9,  They should bring Walter Cronkite back,0.0,0.0,Neutral
+10, Oh forget it who cares,0.0,0.0,Neutral
+11,  🤣💯,0.0,0.0,Neutral
+12, Who made this decision?,0.0,0.0,Neutral
+13, 😉,0.0,0.0,Neutral
+14, Twitter engineering is working on it,0.0,0.0,Neutral
+15,: Inside Tesla exhibit at Petersen Automotive Museum opens tomorrow ,0.0,0.0,Neutral
+16, Server load is insane rn. Good stress test before World Cup tomorrow!,0.8,-0.0625,Negative
+17, Well-said,0.0,0.0,Neutral
+18, Lmaooo,0.0,0.0,Neutral
+19,: Twitter servers right now ,0.5357142857142857,0.2857142857142857,Positive
+20, 🤣🤣,0.0,0.0,Neutral
+21,"The people have spoken. 
 
-Follow live ",0.3666666666666667,-0.010101010101010102,Negative
-4,"UK is already in recession with economy set to shrink further next year, according to independent forecasters
+Trump will be reinstated.
 
-Follow live ",0.28125,0.03409090909090909,Positive
-5,"Republicans take control of the House of Representatives from the Democrats, a setback for President Biden's plans ",0.0,0.0,Neutral
-6,"“No sign of intentional attack” as missile hits Poland, says Polish president
+Vox Populi, Vox Dei. ",0.0,0.0,Neutral
+22, 🤣 but actually,0.1,0.0,Neutral
+23, 🤣,0.0,0.0,Neutral
+24,134M people have seen this poll,0.0,0.0,Neutral
+25, Red Bull does work tbh,0.0,0.0,Neutral
+26,  Definitely need to improve Twitter’s dopamine/cortisol ratio!,0.5,0.0,Neutral
+27,  I agree,0.0,0.0,Neutral
+28, 🤣🤣,0.0,0.0,Neutral
+29,The most entertaining outcome is the most likely – my variant on Occam’s Razor,0.675,0.375,Positive
+30, Twitter search will add feedback loops to improve result rank based on which result you click on &amp; whether you immediately click back (implies wrong result),0.6,-0.43333333333333335,Negative
+31," Notes from last night:
+- Maybe deprecate TLS this week, as only needed if Android app &gt;1 year old.
+- Home mixer computes Home  ~10X faster than Timeline.
+- Ad mixer can greatly improve relevance at cost of lower total ad views. More interesting the ad, more time you look at it.",0.5333333333333333,0.3,Positive
+32, Most accurate would be to require access to phone GPS for location-specific polls,0.5666666666666667,0.45000000000000007,Positive
+33, Yes,0.0,0.0,Neutral
+34,Fascinating to watch Twitter Trump poll!,0.8500000000000001,0.875,Positive
+35,_1x Bot &amp; troll armies might be running out of steam soon. Some interesting lessons to clean up future polls.,0.4416666666666667,0.2888888888888889,Positive
+36, Good question,0.6000000000000001,0.7,Positive
+37, Most amount of people I’ve ever seen in the building by far,0.75,0.3,Positive
+38, 🤣🤣,0.0,0.0,Neutral
+39,   That was certainly my intention too!,0.5714285714285714,0.26785714285714285,Positive
+40,Tesla FSD 10.69.3.1 going to wide release now,0.4,-0.1,Negative
+41,Just leaving Twitter HQ code review ,0.0,0.0,Neutral
+42,_1x The bot attack is impressive to watch!,1.0,1.0,Positive
+43,Trump poll getting ~1M votes/hour!,0.0,0.0,Neutral
+44, Can’t tell if this is parody or real,0.30000000000000004,0.2,Positive
+45,"   Verification through the payment system plus phones, but allowing pseudonyms is the least bad solution I can think of",0.5333333333333333,-0.4999999999999999,Negative
+46," When polls are about a significant question, even those who don’t follow me tend to hear about it. That said, I agree with the idea of an all-user poll. Should also be an all-user by country poll.",0.875,0.375,Positive
+47, Agreed,0.0,0.0,Neutral
+48,"Vox Populi, Vox Dei",0.0,0.0,Neutral
+49,Reinstate former President Trump,0.0,0.0,Neutral
+50,   Too bad,0.6666666666666666,-0.6999999999999998,Negative
+51,  DoJ Antitrust ,0.0,0.0,Neutral
+52," App store fees are obviously too high due to the iOS/Android duopoly. 
 
-Andrzej Duda says blast “very likely” caused by Ukrainian air defence
+It is a hidden 30% tax on the Internet.",0.4370833333333333,-0.032916666666666664,Negative
+53,_com Kind of him to say. I look forward to meeting.,0.9,0.6,Positive
+54, 🤣,0.0,0.0,Neutral
+55,First World Cup match on Sunday! Watch on Twitter for best coverage &amp; real-time commentary.,0.31666666666666665,0.65625,Positive
+56, Exactly,0.25,0.25,Positive
+57, Thanks Marc ❤️,0.2,0.2,Positive
+58, No,0.0,0.0,Neutral
+59,"Note, this applies just to the individual tweet, not the whole account",0.4,0.1,Positive
+60, If only there had been a way … 🤣🤣,1.0,0.0,Neutral
+61,"Kathie Griffin, Jorden Peterson &amp; Babylon Bee have been reinstated.
 
-Follow updates 
-",1.0,0.0,Neutral
-7,"“We all want to get to the bottom of what happened”
+Trump decision has not yet been made.",0.0,0.0,Neutral
+62,"New Twitter policy is freedom of speech, but not freedom of reach.
 
-UK PM Rishi Sunak say there are “teams on the ground” trying to “establish the facts” surrounding Poland missile blast
+Negative/hate tweets will be max deboosted &amp; demonetized, so no ads or other revenue to Twitter. 
 
- ",0.0,0.0,Neutral
-8,"UK and allies still trying to “establish facts” behind missiles landing in Poland, PM Rishi Sunak says at summit of world leaders ",0.7,-0.4,Negative
-9,Prices rise 11.1% in year to October as energy bills drive UK inflation rate to 41-year high ,0.5399999999999999,0.16,Positive
-10,"“We rise together, back to the moon and beyond”
+You won’t find the tweet unless you specifically seek it out, which is no different from rest of Internet.",0.47651515151515156,0.0037878787878787845,Positive
+63,Freedom Fridays …,0.0,0.0,Neutral
+64, Jazz hands 🤗,0.0,0.0,Neutral
+65,What should Twitter do next?,0.0,0.0,Neutral
+66,_770 🤣,0.0,0.0,Neutral
+67, You don’t say …,0.0,0.0,Neutral
+68, Of course not ❤️,0.0,0.0,Neutral
+69, 🥱,0.0,0.0,Neutral
+70, I stand corrected!,0.0,0.0,Neutral
+71,,0.0,0.0,Neutral
+72,  ?,0.0,0.0,Neutral
+73, You’re welcome,0.9,0.8,Positive
+74," Record numbers of users are logging in to see if Twitter is dead, ironically making it more alive than ever!",0.43333333333333335,0.14166666666666666,Positive
+75, Seriously,0.6666666666666666,-0.3333333333333333,Negative
+76,,0.0,0.0,Neutral
+77,,0.0,0.0,Neutral
+78,🏴‍☠️,0.0,0.0,Neutral
+79, 🤣,0.0,0.0,Neutral
+80,Let that sink in …,0.0,0.0,Neutral
+81,And … we just hit another all-time high in Twitter usage lol,0.6199999999999999,0.48000000000000004,Positive
+82," The best people are staying, so I’m not super worried",0.4833333333333333,0.4166666666666667,Positive
+83,"  Don’t wanna jinx it, but there’s a chance we can keep Twitter alive … ",0.4,0.1,Positive
+84, Thanks for helping out. You’re a lifesaver!,0.2,0.25,Positive
+85, Thanks!,0.2,0.25,Positive
+86,"How do you make a small fortune in social media?
 
-The moment Nasa successfully launched its Artemis Moon rocket
+Start out with a large one.",0.2984126984126984,-0.0007936507936508,Negative
+87,_daniel  🤣,0.0,0.0,Neutral
+88," The media constantly writing about Twitter is driving usage to all-time highs, so it’s fine by me!",0.41666666666666663,0.2604166666666667,Positive
+89,  Cybertruck is something special that comes along once in a long while,0.4857142857142857,0.15357142857142858,Positive
+90," Current class-action law is actually a massive tax on the American people and desperately needs reform. It is one of the reasons medication is so expensive in the USA.
 
- ",0.475,0.375,Positive
-11,"Nasa launches its Artemis Moon rocket, after two previous failed attempts ",0.23333333333333334,-0.3333333333333333,Negative
-12,"Donald Trump files paperwork to run for US president again in 2024, and is expected to speak within minutes ",0.4,-0.1,Negative
-13,"Kyiv has been attacked by missiles, the city's mayor says, as world leaders condemn Russia's invasion of Ukraine ",0.0,0.0,Neutral
-14,"UK wages rise at fastest rate in more than 20 years but still lag behind cost of living, official figures show ",0.6,0.04999999999999999,Positive
-15,"UK PM Rishi Sunak condemns Russia’s “barbaric war” and warns China poses threat to economic security, as world leaders' summit begins ",0.2,0.2,Positive
-16,"US President Biden shakes hands with Chinese President Xi Jinping in Bali, stressing the need to avoid conflict ",0.0,0.0,Neutral
-17,"Ukraine's President Zelensky visits recently recaptured city Kherson, telling troops ""we are moving forward"" ",0.25,0.0,Neutral
-18,"Istanbul blast which killed six and injured 81 was act of terrorism, possibly carried out by a woman, Turkey's vice president says ",0.5,-0.1,Negative
-19,Explosion hits busy shopping area in centre of Istanbul with several people reported injured ,0.15,0.05,Positive
-20,Democrats retain majority control of US Senate after President Joe Biden’s party projected to win key race in Nevada ,0.7,0.4,Positive
-21,"Keith Levene, a founding member of The Clash and guitarist for Public Image Ltd, has died aged 65, his friend says ",0.23333333333333334,-0.05,Negative
-22,"Democrats projected to win seat in Arizona, leaving the race for the US Senate neck and neck with two states to go ",0.4,0.8,Positive
-23,"Ukraine's army ""almost in full control"" of strategic city of Kherson after Russian withdrawal, Ukrainian defence spokesman tells BBC ",0.275,0.175,Positive
-24,Man arrested in Scottish hospital is ruled to be missing US fugitive who faked his own death ,0.525,0.19999999999999998,Positive
-25,"All Russian troops have withdrawn from occupied Ukrainian city of Kherson and the surrounding area, Russia's defence ministry says ",0.0,0.0,Neutral
-26,"UK economy shrank by 0.2% between July and September in what is widely expected to be start of recession
-",0.4,-0.1,Negative
-27,Full England squad announced for World Cup in Qatar ,0.55,0.35,Positive
-28,"Russia to withdraw troops from key Ukrainian city Kherson, the only regional centre they had captured since invasion began ",1.0,0.0,Neutral
-29,"Nurses across UK vote to strike in pay dispute but emergency care will not be affected, says union ",0.0,0.0,Neutral
-30,"WhatsApp and Facebook owner Meta to cut 11,000 jobs worldwide, owner Mark Zuckerberg announces ",0.0,0.0,Neutral
-31,Online furniture retailer Made goes into administration with the expected loss of up to 500 jobs ,0.4,-0.1,Negative
-32,Sir Gavin Williamson resigns as UK government minister after bullying allegations and says he aims to “clear my name of any wrongdoing” ,0.3833333333333333,0.10000000000000002,Positive
-33,"Actor Leslie Phillips, best known for appearing in the Carry On comedy films, has died aged 98
-
-",0.35,0.45,Positive
-34,"At least 19 people confirmed dead after Tanzanian passenger plane crashes into Lake Victoria, with others rescued from the wreckage ",0.6,-0.033333333333333326,Negative
-35,"Firebomb attack at Dover immigration centre was primarily motivated by an extremist right-wing ideology, police say ",0.5,0.4,Positive
-36,"Detainees armed with ""various weaponry"" caused disturbance at London immigration centre, Home Office says ",0.5,0.0,Neutral
-37,"Manchester Arena attack victim might have survived if the emergency response had not been ""inadequate"", report finds ",0.05,-0.07500000000000001,Negative
-38,"“This will still come as a shock to many people”
-
-Bank of England’s decision to increase interest rates to 3% is a “jumbo rise”, says BBC’s Economics editor Faisal Islam
-
- ",0.5,0.5,Positive
-39,"UK interest rate rises to 3%, up from 2.25% - the biggest single increase for 33 years ",0.21428571428571427,-0.07142857142857142,Negative
-40,Former Pakistan Prime Minister Imran Khan shot in apparent attempt on his life during protest march ,0.175,0.025,Positive
-41,"UK Prime Minister Rishi Sunak will now attend COP27 climate conference, after earlier saying he was too busy focusing on UK economy ",0.4,0.05,Positive
-42,"UK counter-terrorism police now leading investigation into firebombing of Dover immigration centre on Sunday, and suspect named by police ",0.0,0.0,Neutral
-43,"US rapper Takeoff, part of best-selling hip-hop trio Migos, shot dead in Houston aged 28, US media reports ",0.4,-0.15000000000000002,Negative
-44,Former UK health secretary Matt Hancock suspended as a Conservative MP after joining cast of ITV's I'm A Celebrity ,0.0,0.0,Neutral
-45,BP reports £7.1bn quarterly profit - more than double the amount it made at this time last year - due to high oil and gas prices ,0.2963333333333333,0.10700000000000001,Positive
-46,"Missile strikes reported across Ukraine, including the capital Kyiv, days after Russia blamed Ukraine for drone attack on its Black Sea Fleet ",0.43333333333333335,-0.16666666666666666,Negative
-47,Brazil’s Jair Bolsonaro fails to win a second term as president after former leader Lula returns in run-off ,0.175,0.07500000000000001,Positive
-48,"Bridge collapses in India's Gujarat state sending hundreds plunging into a river, with at least 32 people confirmed dead ",0.6,-0.033333333333333326,Negative
-49,"Emergency services at migrant processing centre in Dover, UK, after Reuters reports a man threw petrol bombs before killing himself ",0.0,0.0,Neutral
-50,"Most victims of Seoul crush were teenagers or adults in their 20s, the fire service says - follow updates ",0.5,0.5,Positive
-51,"Fifty-nine people dead and 150 injured in crush during Halloween celebrations in South Korea's capital, Seoul ",0.4,-0.2,Negative
-52,"Dozens of people in Halloween crowds treated for cardiac arrest in nightlife area of South Korean capital Seoul, officials say ",0.0,-0.05,Negative
-53,"Russia halts participation in Ukraine grain corridor deal citing ""massive drone attack"" on its Black Sea Fleet ",0.7166666666666667,-0.08333333333333333,Negative
-54,"Jerry Lee Lewis, notorious singer behind Great Balls of Fire, dies aged 87 ",0.6166666666666667,0.10000000000000002,Positive
-55,"""You have shown absolutely no remorse and it appears that you are in complete denial as to what you did""
-
-Judge Marks sentences Jemma Mitchell for killing of Mee Kuen Chong
-
- ",0.65,0.0,Neutral
-56,Woman who murdered and decapitated her friend given minimum 34-year jail term in sentencing broadcast live from UK court ,0.25,0.018181818181818174,Positive
-57,"Elon Musk completes his $44bn takeover of Twitter and fires several top executives, US media report ",0.25,0.25,Positive
-58,"One dead and several injured, including on loan Arsenal footballer Pablo Marí, in mass stabbing in Italy, media report ",0.4000000000000001,-0.26666666666666666,Negative
-59,"UK Prime Minister Rishi Sunak will not attend the COP27 climate conference in Egypt next month, No 10 says ",0.0,0.0,Neutral
-60,"Prime Minister Rishi Sunak says he will fix mistakes made by Liz Truss as he warns of ""profound economic crisis"" facing UK ",0.6,0.14166666666666666,Positive
-61,"See the moment Rishi Sunak meets King Charles at Buckingham Palace as he becomes the UK's third prime minister in a year
-
-Follow live ",0.25,0.06818181818181818,Positive
-62,"""I know brighter days lie ahead""
-
-UK's shortest-serving PM Liz Truss leaves Downing Street with family
-
-",0.0,0.0,Neutral
-63,Rishi Sunak to take over as UK prime minister on Tuesday morning after meeting King Charles ,0.0,0.0,Neutral
-64,"""I pledge that I will serve you with integrity and humility""
-
-Rishi Sunak promises to ""work day in day out to deliver for the British people"" in first public speech since being named next UK PM
-
- ",0.09999999999999999,0.0625,Positive
-65,Rishi Sunak speaks publicly for the first time since being named UK's next prime minister ,0.13333333333333333,0.08333333333333333,Positive
-66," Sir Graham Brady, chairman of 1922 Committee of Conservative MPs, announces Rishi Sunak as Tory leader and next prime minister
-
- ",0.0,0.0,Neutral
-67,"Rishi Sunak set to become the UK's first British Asian prime minister, as Penny Mordaunt withdraws from Conservative Party leadership race ",0.1111111111111111,0.08333333333333333,Positive
-68,Boris Johnson drops out of race to be UK Conservative Party leader and PM - follow live updates ,0.5,0.13636363636363635,Positive
-69,"Xi Jinping secures a historic third term, cementing his position as China's most powerful leader since Mao Zedong ",0.375,0.2,Positive
-70,"12-year-old boy dies and man pulled from rubble after garage wall collapses in Essex, UK 
-",0.0,0.0,Neutral
-71,"Committee investigating former US President Donald Trump over 6 January riots issues summons ordering him to testify and hand over key documents
-
-",0.5,0.0,Neutral
-72,"Ex-US President Donald Trump's former top adviser Steve Bannon sentenced to four months in jail after refusing to testify to Congress over 6 January riots
-
-",0.16666666666666666,0.13333333333333333,Positive
-73,"Labour MP Christian Matheson should be suspended from UK House of Commons for four weeks for ""serious sexual misconduct"", says parliamentary watchdog ",0.5,0.05555555555555556,Positive
-74,"UK government borrowing rose last month, and retail sales fell as shops were hit by cost-of-living concerns and Queen’s funeral closures ",0.5083333333333333,0.3,Positive
-75,"Anne Sacoolas admits causing Harry Dunn's death by careless driving in 2019, in case that sparked row between US and UK governments ",0.9,-0.5,Negative
-76,"""I cannot deliver the mandate on which I was elected by the Conservative Party""
-
-UK Prime Minister Liz Truss resigns
-
- ",0.0,0.0,Neutral
-77,"There will be a leadership election within a week, UK Prime Minister Liz Truss says in resignation statement ",0.0,0.0,Neutral
-78,Liz Truss to resign as UK prime minister after 45 days in office ,0.0,0.0,Neutral
-79,"Grant Shapps to be UK home secretary after Suella Braverman's departure six weeks into the job 
-
-",0.0,0.0,Neutral
-80,"Suella Braverman has resigned as UK home secretary, adding to turmoil in PM Liz Truss's government 
-
-",0.0,0.0,Neutral
-81,"Hong Kong pro-democracy protester gives his account of violence at China's consulate in Manchester, UK ",0.0,0.0,Neutral
-82,"""I am completely committed to the triple lock and so is the chancellor""
-
-UK PM Liz Truss commits to increasing pensions in line with inflation during PMQs
-
- ",0.4,0.1,Positive
-83,"UK PM Liz Truss tells MPs she is committed to raising pensions in line with inflation, after No 10 fuelled speculation pledge would be dropped ",0.0,0.0,Neutral
-84,"Up to 45 babies may have survived if they had received better care at East Kent NHS Hospitals Trust in the UK, review finds ",0.5,0.5,Positive
-85,"Russia begins evacuation of key Ukrainian city of Kherson, seized during invasion, as Kyiv's forces counter-attack ",1.0,0.0,Neutral
-86,"Cost of living in UK rises 10.1% in the 12 months to September 
-
-Updates ",0.0,0.0,Neutral
-87,"One of China's most senior diplomats in the UK was involved in violence against protesters in Manchester on Sunday, a British MP says ",0.25,0.25,Positive
-88,"President Zelensky says 30% of Ukraine's power stations have been ""destroyed"" in the past eight days, as Russia steps up infrastructure attacks ",0.25,-0.25,Negative
-89," Asked if she accepts that her policies since taking office have ""made it harder for people to pay their bills"", UK PM Liz Truss says ""we went too far and too fast"" 
-
- ",0.5333333333333333,0.06666666666666667,Positive
-90,"""I will lead the Conservatives into the next general election""
-
-UK PM Liz Truss says she's ""sticking around"", but wants to ""say sorry for the mistakes that have been made""
-
- ",0.4,-0.0625,Negative
-91,"Military plane crashes in residential area of southern Russian town of Yeysk, with footage showing flames pouring from tower block ",0.03333333333333333,-0.03333333333333333,Negative
-92,"Chancellor Jeremy Hunt confirms that all the tax measures announced in the growth plan three weeks ago that have not started parliamentary legislation will be reversed
-
- 
-
-",0.0,0.0,Neutral
-93,"UK Chancellor Jeremy Hunt reverses almost all tax measures set out in mini-budget, leaving PM Liz Truss's original plan in tatters
-
-",0.75,0.375,Positive
-94,New UK Chancellor Jeremy Hunt to set out plans for tax and spending in a statement later today - two weeks earlier than expected ,0.3386363636363636,0.009090909090909087,Positive
-95,"Kyiv has been attacked by kamikaze drones, Ukraine says, one week after widespread Russian strikes on the country ",0.0,0.0,Neutral
-96,"Manchester United footballer Mason Greenwood charged with attempted rape, engaging in controlling behaviour and assault, CPS says ",0.7,0.4,Positive
-97,"""We are not going to be able to cut taxes as quickly as we wanted to and some taxes will have to go up""
-
-Chancellor says keeping the rises in interest rates as low as possible means ""we have to give certainty to markets"" over funding plans
-
- ",0.60625,0.20833333333333331,Positive
-98,"UK Chancellor Jeremy Hunt tells BBC that some taxes will have to go up and he will ask all areas of government to find ""difficult"" savings
-",1.0,-0.5,Negative
-99,"Robbie Coltrane obituary: Actor who could be funny or serious, but always compelling ",0.7555555555555555,0.07222222222222223,Positive
+Somehow, other countries do just fine without class-action law.",0.5678571428571428,-0.11547619047619048,Negative
+91, The actual attackers in class-action lawsuits are the law firms. They just find someone in the class to be their puppet.,0.1,0.0,Neutral
+92, Ok,0.5,0.5,Positive
+93, We’re working on something that should rank replies automatically,0.9,-0.8,Negative
+94,Twitter is like open-sourcing the news,0.0,0.0,Neutral
+95, Polycule 🔥🔥,0.0,0.0,Neutral
+96, Probably,0.0,0.0,Neutral
+97,_Daily Even TikTok is super dependent on ads,0.3333333333333333,0.16666666666666666,Positive
+98,"SBF is ineffective altruism, but they thought he was saying he was in effective altruism. Easy misunderstanding.",0.8166666666666667,0.5166666666666666,Positive
+99,_daniel  I don’t wanna brag but … it’s true,0.65,0.35,Positive
