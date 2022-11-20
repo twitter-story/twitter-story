@@ -28,7 +28,7 @@ def Get_user_Information(user):
     }
     return user_Info
 
-print(Get_user_Information('alm7seery'))
+#print(Get_user_Information('alm7seery'))
 
 #username, screenName, location,followers,friend,created at ,deicreption ,verified 
 
