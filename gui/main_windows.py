@@ -66,7 +66,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.trends_btn.place(x=7.0, y=183.0, width=208.0, height=47.0)
+        self.trends_btn.place(x=7.0, y=133.0, width=208.0, height=47.0)
 
         
         button_image_2 = PhotoImage(file=("assets/button_3.png"))
@@ -79,7 +79,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.search_btn.place(x=7.0, y=233.0, width=208.0, height=47.0)
+        self.search_btn.place(x=7.0, y=183.0, width=208.0, height=47.0)
 
 #########################  tweet  #######################################
 
@@ -93,7 +93,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.user_tweet_btn.place(x=7.0, y=283.0, width=208.0, height=47.0)
+        self.user_tweet_btn.place(x=7.0, y=233.0, width=208.0, height=47.0)
 
 #########################  tweet  #######################################
 
@@ -109,7 +109,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.user_Info_btn.place(x=7.0, y=133.0, width=208.0, height=47.0)
+        self.user_Info_btn.place(x=7.0, y=283.0, width=208.0, height=47.0)
 
 #########################  sentiment analysis  #######################################
 
@@ -174,8 +174,8 @@ class MainWindow(Toplevel):
 
         # Loop through windows and place them
         self.windows = {
-            "sear": Search(self),
             "gue": Trends(self),
+            "sear": Search(self),
             "abt": About(self),
             "user": Information(self),
             "tweet": Tweet(self),
@@ -183,7 +183,7 @@ class MainWindow(Toplevel):
             
         }
 
-        self.handle_btn_press(self.user_Info_btn, "user")
+        self.handle_btn_press(self.trends_btn, "gue")
         self.sidebar_indicator.place(x=0, y=133)
 
         self.current_window.place(x=215, y=72, width=1013.0, height=506.0)
@@ -220,6 +220,6 @@ class MainWindow(Toplevel):
         current_name = self.windows.get(name)._name.split("!")[-1].capitalize()
         self.canvas.itemconfigure(self.heading, text=current_name)
 
-    # def handle_search_refresh(self):
-    #     # Recreate the user window
-    #     self.windows["sear"] = Search(self)
+    def handle_search_refresh(self):
+        # Recreate the user window
+        self.windows["sear"] = Search(self)
