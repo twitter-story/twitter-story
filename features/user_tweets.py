@@ -55,6 +55,6 @@ def user_tweets(user):
 
 
 if __name__ == '__main__':
-    df=user_tweets('BBCBreaking')
+    df=user_tweets('hellokitty')
     print(df)
     

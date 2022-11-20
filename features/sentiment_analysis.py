@@ -1,7 +1,7 @@
 import re
 import matplotlib.pyplot as plt
 from textblob import TextBlob
-from user_tweets import user_tweets
+#from userName_tweets import user_tweets
 
 def cleanTxt(tweet):
     '''
@@ -72,10 +72,10 @@ def percentage(df):
     plt.savefig('Sentiment_Analysis.png', bbox_inches='tight')
 
 
-if __name__=='__main__':
+#if __name__=='__main__':
     # df=user_tweets('elonmusk')
-    # df=user_tweets('hellokitty')
-    df=user_tweets('BBCBreaking')
-    tweets=sentiment_analysis(df)
-    print(tweets)
-    percentage(tweets)
+    #df=user_tweets('hellokitty')
+    #df=user_tweets('BBCBreaking')
+    # tweets=sentiment_analysis(df)
+    # print(tweets)
+    # percentage(tweets)

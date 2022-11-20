@@ -8,9 +8,11 @@ from tkinter import (
     StringVar,
 )
 from gui.Information import Information
-from gui.Tweet import Tweet
+from gui.About import About
 from gui.Search import Search
 from gui.Trends import Trends
+from gui.Tweet import Tweet
+from gui.sentiment import Sentiment
 # import welcome
 
 
@@ -79,7 +81,21 @@ class MainWindow(Toplevel):
         )
         self.search_btn.place(x=7.0, y=183.0, width=208.0, height=47.0)
 
-        
+#########################  tweet  #######################################
+
+        button_image_10 = PhotoImage(file=("assets/button_7.png"))
+        self.user_tweet_btn = Button(
+            self.canvas,
+            image=button_image_10,
+            borderwidth=0,
+            highlightthickness=0,
+            command=lambda: self.handle_btn_press(self.user_tweet_btn, "tweet"),
+            cursor='hand2', activebackground="#111D29",
+            relief="flat",
+        )
+        self.user_tweet_btn.place(x=7.0, y=233.0, width=208.0, height=47.0)
+
+#########################  tweet  #######################################
 
 
 
@@ -95,7 +111,21 @@ class MainWindow(Toplevel):
         )
         self.user_Info_btn.place(x=7.0, y=283.0, width=208.0, height=47.0)
 
+#########################  sentiment analysis  #######################################
 
+        button_image_13 = PhotoImage(file=("assets/Asset_1.png"))
+        self.sen_btn = Button(
+            self.canvas,
+            image=button_image_13,
+            borderwidth=0,
+            highlightthickness=0,
+            command=lambda: self.handle_btn_press(self.sen_btn, "Sentiment"),
+            cursor='hand2', activebackground="#111D29",
+            relief="flat",
+        )
+        self.sen_btn.place(x=7.0, y=333.0, width=208.0, height=47.0)
+
+#########################  sentiment analysis  #######################################
 
 
         button_image_4 = PhotoImage(file=("assets/button_6.png"))
@@ -108,7 +138,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.about_btn.place(x=7.0, y=333.0, width=208.0, height=47.0)
+        self.about_btn.place(x=7.0, y=383.0, width=208.0, height=47.0)
 
         button_image_5 = PhotoImage(file=("assets/button_23.png"))
         self.exit_btn = Button(
@@ -146,8 +176,11 @@ class MainWindow(Toplevel):
         self.windows = {
             "gue": Trends(self),
             "sear": Search(self),
-            "abt": Tweet(self),
+            "abt": About(self),
             "user": Information(self),
+            "tweet": Tweet(self),
+            "Sentiment": Sentiment(self)
+            
         }
 
         self.handle_btn_press(self.trends_btn, "gue")
@@ -187,6 +220,6 @@ class MainWindow(Toplevel):
         current_name = self.windows.get(name)._name.split("!")[-1].capitalize()
         self.canvas.itemconfigure(self.heading, text=current_name)
 
-    def handle_Trends_refresh(self):
+    def handle_search_refresh(self):
         # Recreate the user window
-        self.windows["gue"] = Trends(self)
+        self.windows["sear"] = Search(self)

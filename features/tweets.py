@@ -19,15 +19,12 @@ def tweet(query):
             tweets.append([tweet.date, tweet.username, tweet.content])
             
     df = pd.DataFrame(tweets, columns=['Date', 'User', 'Tweet'])
-    All_tweets='''
-        '''
+    All_tweets=''
+        
     tweet=df['Tweet']
     user=df['User']
     for i in range(len(tweet)):
-        All_tweets+=f'''
-            tweet {i+1} : {tweet[i]}
-            --------------------------
-            '''
+        All_tweets+=f'tweet {i+1} : {tweet[i]} \n\n '
     return All_tweets
     # return df['Tweet']
     

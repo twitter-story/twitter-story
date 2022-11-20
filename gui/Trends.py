@@ -8,15 +8,15 @@ def trend():
     Trends()
 
 def jo_Trend():
-    jo='''
-    '''
-    ww='''
-    '''
+    jo='Trends in Jordan \n\n'
+    
+    ww='Trends in the world \n\n'
+   
     for i in range (5):
-        jo+=f'''{trends()[0][i]} \n
-                        '''
-        ww+=f'''{trends()[1][i]} \n
-        '''
+        jo+=f"{i+1}) {trends()[0][i]} \n\n"
+                        
+        ww+=f'{i+1}) {trends()[1][i]} \n\n'
+      
     return jo,ww
 
 
@@ -36,13 +36,14 @@ class Trends(Frame):
             highlightthickness=0,
             relief="ridge",
         )
-        canvas.create_text(
-            250,
-            100,
-            anchor="nw",
-            text=jo_Trend()[0],
-            fill="#000000",
-            font=("Montserrat Bold", 24 * -1),
-        )
+        #jo,ww=jo_Trend()
+        canvas.pack()
+        canvas.create_rectangle(10, 10, 340, 500, fill="#1D9BF0", outline="#1D9BF0")
+        canvas.create_text(110, 200,font=('Helvetica','15','bold'), text='jo',fill='white')
 
+        canvas.create_rectangle(390, 10, 770, 500, fill="#1D9BF0", outline="#1D9BF0")
+        canvas.create_text(590, 200,font=('Helvetica','15','bold'), text='ww',fill='white')
+
+        
+        
         canvas.place(x=0, y=0)
