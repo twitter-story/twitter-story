@@ -19,4 +19,3 @@ def user_tweets(user):
 if __name__ == '__main__':
     df=user_tweets('heartt_6')
     print(df)
-    
