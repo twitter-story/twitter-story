@@ -127,7 +127,6 @@ class MainWindow(Toplevel):
 
 #########################  sentiment analysis  #######################################
 
-
         button_image_4 = PhotoImage(file=("assets/button_6.png"))
         self.about_btn = Button(
             self.canvas,
