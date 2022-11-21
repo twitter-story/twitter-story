@@ -11,16 +11,18 @@ def search():
 
 
 class Search(Frame):
+    
     def result_Hashtag(self,hashtag):
+        self.canvas.delete('all')
         x=tweet(hashtag)
-        print(x)
+        #print(x)
 
-        All_tweets=''
+        # All_tweets=''
         
-        for i in range(5):
-            All_tweets+=f'tweet {i+1} : {x[i]} \n\n '
+        # for i in range(5):
+        #     All_tweets+=f'tweet {i+1} : {x[i]} \n\n '
         
-        self.canvas.create_text(
+        y=self.canvas.create_text(
         260.0,
         12.0,
             anchor="nw",
@@ -29,7 +31,10 @@ class Search(Frame):
             fill="#000000",
             font=("Montserrat 10 Bold", 18 * -1),
         )
+        self.entry_Hashtag.delete()
+        
     def result_User(self,user):
+            self.canvas.delete('all')
             data=user_tweets(user)['Tweets']
             #print(data)
             All_tweets=''
@@ -48,6 +53,7 @@ class Search(Frame):
             font=("Montserrat 10 Bold", 18 * -1),
         )
     def result_User_Hash(self,user,Hash):
+            self.canvas.delete('all')
             data= search_by_UserAndHashtag(user, Hash)
             
             self.canvas.create_text(
@@ -59,13 +65,17 @@ class Search(Frame):
             fill="#000000",
             font=("Montserrat 10 Bold", 18 * -1),
         )
+            self.entry_Username.delete()
+            self.entry_Hash.delete()
 
         
         
 
 
     def search_Bar(self,e):
+        
         if e=="hashtag":
+            self.canvas.delete('my_tag')
             self.entry_image_2 = PhotoImage(file="assets/Asset_3.png")
             entry_bg_1 = self.canvas.create_image(125.0, 122.0, image=self.entry_image_2)
             entry_Hashtag= Entry(
@@ -90,10 +100,11 @@ class Search(Frame):
                 relief="flat",
         )
             self.search_Hashtag_btn.place(x=23.0, y=230.0, width=208.0, height=47.0)
+            self.entry_Hash.destroy()
 
 
         if e=="user":
-            
+            self.canvas.delete('my_tag')
             self.entry_image_2 = PhotoImage(file="assets/Asset_3.png")
             entry_bg_1 = self.canvas.create_image(125.0, 122.0, image=self.entry_image_2)
             entry_User= Entry(
@@ -118,6 +129,7 @@ class Search(Frame):
                 relief="flat",
         )
             self.search_User_btn.place(x=23.0, y=230.0, width=208.0, height=47.0)
+            self.entry_Hash.destroy()
         
 
         if e=="user & keywords":
@@ -137,9 +149,10 @@ class Search(Frame):
 
 
             self.entry_image_5 = PhotoImage(file="assets/Asset_3.png")
-            entry_bg_5 = self.canvas.create_image(125.0, 188.0, image=self.entry_image_5)
+            self.entry_bg_5 = self.canvas.create_image(125.0, 188.0, image=self.entry_image_5,tags='my_tag')
+            
 
-            entry_Hash= Entry(
+            self.entry_Hash= Entry(
                 self,
                 bd=0,
                 bg="#EFEFEF",
@@ -147,8 +160,8 @@ class Search(Frame):
                 font=("Montserrat Bold", 18 * -1),
                 foreground="#777777",
             )
-            entry_Hash.insert(-1, 'Hashtag')
-            entry_Hash.place(x=35.0, y=167.0, width=185.0, height=30.0)
+            self.entry_Hash.insert(-1, 'Hashtag')
+            self.entry_Hash.place(x=35.0, y=167.0, width=185.0, height=30.0)
 
             self.button_search_3 = PhotoImage(file=("assets/Asset_7.png"))
             self.search_User_Hashtag_btn = Button(
@@ -156,7 +169,7 @@ class Search(Frame):
             image=self.button_search_3,
             borderwidth=0,
             highlightthickness=0,
-            command=lambda: self.result_User_Hash(entry_Username.get(),entry_Hash.get()),
+            command=lambda: self.result_User_Hash(entry_Username.get(),self.entry_Hash.get()),
             cursor='hand2', 
             relief="flat",
         )

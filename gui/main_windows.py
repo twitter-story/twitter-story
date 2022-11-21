@@ -47,13 +47,13 @@ class MainWindow(Toplevel):
         self.canvas.place(x=0, y=0)
 
         self.canvas.create_rectangle(
-            215, 0.0, 1012.0, 506.0, fill="#FFFFFF", outline=""
+            215, 0.0, 1012.0, 600.0, fill="#FFFFFF", outline=""
         )
 
         # Add a frame rectangle
         self.sidebar_indicator = Frame(self, background="#FFFFFF")
 
-        self.sidebar_indicator.place(x=0, y=133, height=47, width=7)
+        self.sidebar_indicator.place(x=250, y=200, height=47, width=7)
 
 
         button_image_3 = PhotoImage(file=("assets/button_21.png"))
@@ -66,7 +66,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.trends_btn.place(x=7.0, y=183.0, width=208.0, height=47.0)
+        self.trends_btn.place(x=15.0, y=183.0, width=208.0, height=47.0)
 
         
         button_image_2 = PhotoImage(file=("assets/button_3.png"))
@@ -79,7 +79,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.search_btn.place(x=7.0, y=233.0, width=208.0, height=47.0)
+        self.search_btn.place(x=15.0, y=233.0, width=208.0, height=47.0)
 
 #########################  tweet  #######################################
 
@@ -93,7 +93,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.user_tweet_btn.place(x=7.0, y=283.0, width=208.0, height=47.0)
+        self.user_tweet_btn.place(x=15.0, y=283.0, width=208.0, height=47.0)
 
 #########################  tweet  #######################################
 
@@ -109,7 +109,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.user_Info_btn.place(x=7.0, y=133.0, width=208.0, height=47.0)
+        self.user_Info_btn.place(x=15.0, y=133.0, width=208.0, height=47.0)
 
 #########################  sentiment analysis  #######################################
 
@@ -123,7 +123,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.sen_btn.place(x=7.0, y=333.0, width=208.0, height=47.0)
+        self.sen_btn.place(x=15.0, y=333.0, width=208.0, height=47.0)
 
 #########################  sentiment analysis  #######################################
 
@@ -138,7 +138,7 @@ class MainWindow(Toplevel):
             cursor='hand2', activebackground="#111D29",
             relief="flat",
         )
-        self.about_btn.place(x=7.0, y=383.0, width=208.0, height=47.0)
+        self.about_btn.place(x=15.0, y=383.0, width=208.0, height=47.0)
 
         button_image_5 = PhotoImage(file=("assets/button_23.png"))
         self.exit_btn = Button(
@@ -149,7 +149,7 @@ class MainWindow(Toplevel):
             command=self.exit,
             relief="flat",
         )
-        self.exit_btn.place(x=0.0, y=441.0, width=215.0, height=47.0)
+        self.exit_btn.place(x=14.0, y=441.0, width=215.0, height=47.0)
 
 
         self.heading = self.canvas.create_text(
@@ -162,12 +162,12 @@ class MainWindow(Toplevel):
         )
 
         self.canvas.create_text(
-            28.0,
-            21.0,
-            anchor="nw",
-            text="Twitter Story",
+            105.0,
+            65.0,
+            anchor="s",
+            text="𝐓𝐰𝐢𝐭𝐭𝐞𝐫 𝐒𝐭𝐨𝐫𝐲",
             fill="#FFFFFF",
-            font=("Montserrat Bold", 24 * -1),
+            font=( "Helvetica Bold",  38 * -1),
         )
 
         
@@ -217,8 +217,9 @@ class MainWindow(Toplevel):
         self.windows[name].place(x=215, y=72, width=1013.0, height=506.0)
 
         # Handle label change
-        current_name = self.windows.get(name)._name.split("!")[-1].capitalize()
-        self.canvas.itemconfigure(self.heading, text=current_name)
+        current_name = self.windows.get(name)._name.split("!")[1].capitalize()
+        rndfont=("Purisa", 18, "bold")
+        self.canvas.itemconfigure(self.heading, text=current_name,fill="#111D29",font=rndfont)
 
     # def handle_search_refresh(self):
     #     # Recreate the user window

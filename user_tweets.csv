@@ -1,120 +1,107 @@
 ,Tweets,Subjectivity,Polarity,Analysis
-0, It is tragic how far The New York Times has fallen – basically just boring af far left brainwashing at this point. The boring part is truly unforgivable!,0.7435064935064936,-0.3448051948051948,Negative
-1,World Cup starts soon! Follow on Twitter for best coverage by far.,0.65,0.55,Positive
-2, 🤣,0.0,0.0,Neutral
-3, Sure as night follows day …,0.8888888888888888,0.5,Positive
-4,  Hey stop defaming me!,0.0,0.0,Neutral
-5, 🔥🔥,0.0,0.0,Neutral
-6,Twitter is ALIVE,0.4,0.1,Positive
-7,    Good idea,0.6000000000000001,0.7,Positive
-8,   Their posts are super boring,0.8333333333333333,-0.33333333333333337,Negative
-9,  They should bring Walter Cronkite back,0.0,0.0,Neutral
-10, Oh forget it who cares,0.0,0.0,Neutral
-11,  🤣💯,0.0,0.0,Neutral
-12, Who made this decision?,0.0,0.0,Neutral
-13, 😉,0.0,0.0,Neutral
-14, Twitter engineering is working on it,0.0,0.0,Neutral
-15,: Inside Tesla exhibit at Petersen Automotive Museum opens tomorrow ,0.0,0.0,Neutral
-16, Server load is insane rn. Good stress test before World Cup tomorrow!,0.8,-0.0625,Negative
-17, Well-said,0.0,0.0,Neutral
-18, Lmaooo,0.0,0.0,Neutral
-19,: Twitter servers right now ,0.5357142857142857,0.2857142857142857,Positive
-20, 🤣🤣,0.0,0.0,Neutral
-21,"The people have spoken. 
+0,"In order to solve our world’s sanitation crisis, we need smarter toilets that don’t rely on sewage systems and prevent the spread of diseases. WorldToiletDay ",0.0,0.0,Neutral
+1,"Collaboration and more open access to data have made seemingly impossible health breakthroughs a reality, like COVID-19 vaccines.  is putting the power of data behind one of our most critical health challenges. ",0.6666666666666666,-0.011111111111111108,Negative
+2,"From decreasing maternal mortality to lowering rates of vaccine-preventable diseases,  is a true hero in her community. ",0.65,0.35,Positive
+3,"Africa has always been at the heart of our foundation’s mission. Today, we are announcing our commitment of $7 billion over the next 4 years for the development of more breakthrough innovations in health and agriculture across the continent. ",0.25,0.25,Positive
+4,_Worldwide is doing great things for health within Kenya and across Africa thanks to the leadership of . It was a pleasure to meet with you. ,0.475,0.5,Positive
+5,Many people don’t know that Mike was a champion for and leader on PEPFAR – the President’s Emergency Plan for AIDS Relief – which has saved millions of lives. It’s one of the best things this country has ever done. It will be a lasting part of his legacy.,0.26666666666666666,0.5,Positive
+6,"I’m very sad to hear about Michael Gerson’s passing. We spoke many times over the years, especially about global health, and when I started talking about pandemic prevention back in 2015, he was one of the first journalists I wanted to talk to. ",0.47222222222222227,0.016666666666666663,Positive
+7,"  It was a pleasure to join this roundtable to learn more about Kenya’s progress. It is great to be back in Kenya. So much has changed since my last visit, and it’s exciting to come and see it first-hand.",0.38611111111111107,0.3,Positive
+8,_com:  is excited to host Bill Gates in an exclusive conversation for the  virtual…,0.75,0.375,Positive
+9,"I’m in Kenya this week to learn from researchers, innovators, students, and leaders about what’s working, what’s not, and how the foundation can better support progress in Kenya and across the continent.  ",0.5,0.5,Positive
+10,Thank you for having me. I’m excited to be here in Kenya this week to see how much progress has been made. ,0.475,0.2875,Positive
+11," Thank you. I enjoyed learning from your health team, as well as some of the remarkable individuals who make up the community.",0.725,0.625,Positive
+12,"I believe everyone has a role to play in addressing climate change. Whether you’re an entrepreneur, an inventor, or consumer, we can all help avoid a climate disaster. ",0.0,0.0,Neutral
+13,"When it comes to alleviating the impacts of climatechange on smallholder farmers, the goal should not simply be giving more food aid. It should be to ensure no aid is needed in the first place.  COP27",0.3968253968253968,0.25,Positive
+14,Those of us who have done the most to cause this problem should help the rest of the world survive it. We owe them that much. ,0.35,0.35,Positive
+15,"More than 670,000 children die from pneumonia every year. Inventprise is working to change that. WorldPneumoniaDay ",0.5,0.5,Positive
+16,"While the last steps are proving to be the toughest, I’m optimistic we will eradicate polio. I recently visited _Leuven’s Rega Institute where they’re testing preventative medicine – an important step toward a polio-free world. ",0.4388888888888889,0.13333333333333333,Positive
+17,"The climate crisis is already devastating communities. More funding is necessary to ensure agricultural and technological innovations are widely available to the most vulnerable, helping them adapt to climate change, save lives, and increase economic opportunity. ",0.5857142857142856,0.01428571428571429,Positive
+18,I have never met anyone who was more passionate about reducing the world’s worst inequities in health than Paul Farmer. I continue to learn from my dear friend’s life and legacy today. ,0.7833333333333333,-0.18333333333333335,Negative
+19,"More than 1B people globally still suffer from NTDs, many caused by parasites. I got a firsthand look at these creepy crawlies at the Parasitic Museum in Tokyo. The more we understand them, the better we can address the diseases they cause. ",0.5,0.25,Positive
+20,"This year's BESummit2022 brought together investors, policymakers, and innovators to tackle one of the world’s toughest problems: climate change. ",0.0,0.0,Neutral
+21,"Math shouldn’t be a gatekeeper, limiting a student’s dreams. It should be a gateway, helping students realize them. ",0.0,0.0,Neutral
+22,"TerraPower, the next-gen nuclear company I founded, just agreed with PacifiCorp to study the feasibility of building five Natrium reactors for its customers. ",0.0,0.0,Neutral
+23,I had a great meeting with  to discuss the importance of funding research to address some of the future challenges we face in global health. ,0.2916666666666667,0.26666666666666666,Positive
+24,"Thank you, Prime Minister _Bettel for your continued commitment and support. ",0.0,0.0,Neutral
+25,I am thrilled to see the existing partnership between  and  strengthen with the signing of this MOU today. Global collaboration like this has the power to bring the clean energy solutions we need to communities around the world. ,0.4666666666666666,0.32222222222222224,Positive
+26,"I’m deeply grateful for the efforts of partners like President  who have helped reduce the global polio burden by 99.9% and prevented an estimated 20 million children from being paralyzed. Together, we can overcome the last hurdles and achieve a polio-free world. ",0.15555555555555556,0.0,Neutral
+27,Testing for viruses with a breathalyzer? It’s possible. Pretty incredible to see the innovative work happening at _int. ,0.975,0.4125,Positive
+28,"Thank you, Prime Minister , for hosting this year’s GrandChallenges meeting. Your support in facilitating this gathering of global leaders will help ensure a healthier and more secure world. ",0.3666666666666667,0.3,Positive
+29, Thanks for having me! Seeing the universal Al Robotics platform in action was incredible.,0.30000000000000004,0.3125,Positive
+30,  Thank you for the thoughtful discussion.,0.5,0.4,Positive
+31,"One amazing program supported by the EU and  together is the African Medicines Agency, a new African Union institution to strengthen regulatory capacity and health security across the continent. ",0.3386363636363636,0.1840909090909091,Positive
+32,Thanks to the _Commission’s  for a great discussion about our joint efforts to advance the fight against infectious diseases. ,0.475,0.5,Positive
+33,"Twenty years ago, I thought of GrandChallenges as a Gates Foundation initiative. Because of all of the innovators and broader scientific community involved, it has become a global movement. ",0.0,0.0,Neutral
+34,It’s been fantastic to learn from  and  who've been working on the reduction of malaria and many other disease elimination programs with the support of . ,0.5916666666666667,0.25833333333333336,Positive
+35,"To understand what it will take to get to zero, we need to start by asking where the 51 billion tons of emissions come from:  MastersofScaleSummit ",0.0,0.0,Neutral
+36,The  Energy Summit is officially a wrap. Reaching net-zero emissions will be the hardest thing humanity has ever done – but I’m leaving today with an increased sense of hope. ,0.0,0.0,Neutral
+37,Literally. ,0.0,0.0,Neutral
+38,Today was pretty special. I was able to get hands on with innovative climate tech that could help us reach net-zero. ,0.7991071428571428,0.4017857142857143,Positive
+39,"The Five Grand Challenges can help us consider more ways to develop comprehensive solutions and reduce global emissions. Thank you, Project Art Collective, for your creativity in bringing them to life. ",0.5,0.3333333333333333,Positive
+40,"This is the “FOCUS” art installation on display at BE Summit. It cleverly represents the Five Grand Challenges — Electricity, Manufacturing, Agriculture, Transportation, and Buildings. ",0.9166666666666667,0.3333333333333333,Positive
+41,"Grateful for your and ’s leadership. While we have made significant strides in climate innovation, we need more Breakthroughs. ",0.6875,0.4375,Positive
+42,  It’s unrealistic to expect people to stop traveling by plane. We must scale innovations that decarbonize the aviation industry.  will help us achieve this by building the world’s first plant for turning alcohol into sustainable aviation fuel. ,0.6666666666666666,-0.125,Negative
+43,"Yesterday was an important step toward a polio-free world: $2.6 billion committed will help protect millions of children. Thank you , , and the many other donors who pledged support. Let’s keep this momentum and EndPolio together. ",0.625,0.25833333333333336,Positive
+44,I’m leaving day 1 of BESummit2022 feeling optimistic about the future after meeting with innovators who are developing the solutions we need to reach net-zero emissions. ,0.125,0.0,Neutral
+45,: The first day of our BESummit2022 addressed the state of the energy transition – where we’ve been and the Five Grand Cha…,0.6666666666666666,0.375,Positive
+46, Kicking things off reviewing BESummit2022 activities with ’s Executive Director Rodi Guidero – here’s to a day full of learning and innovation. ,0.55,0.35,Positive
+47," In the run-up to the meeting, I decided to write out my thoughts on the state of the transition to zero. ",0.0,0.0,Neutral
+48,"This week,  Energy is starting an annual tradition. We’re hosting a gathering in Seattle where scientists, inventors, entrepreneurs, public officials, and corporate leaders from around the world will talk about what it’s going to take to get to net-zero emissions.",0.05555555555555556,0.0,Neutral
+49,I believe we’ll be able to avoid a climate disaster. The ultimate measure of success is global greenhouse-gas emissions: we need to go from 51 billion tons a year to 0 in the next three decades. I’m optimistic we can get there – if we take the right steps. ,0.3601190476190476,0.18095238095238098,Positive
+50,"I’m bear-y honored to receive this adorable bear carrying such an urgent message: EndPolio. As countries convene for the polio pledging moment, it’s vital they heed this bear’s message and commit to consigning polio to history. ",0.6333333333333333,0.19999999999999998,Positive
+51,"I loved learning about how  is meeting clean global energy demands by unlocking access to a wealth of inexpensive, clean energy. ",0.55,0.35833333333333334,Positive
+52,"Last week, I sat down with Bloomberg  to talk about why I remain so committed to eradicating polio. By coming together and funding efforts like the Global Polio Eradication Initiative, we can EndPolio and build a healthier world. ",0.11851851851851852,-0.051851851851851864,Negative
+53,": The world made a promise to EndPolio for good. No one should live in fear of this preventable disease.
 
-Trump will be reinstated.
+The Gates Fou…",0.55,0.41818181818181815,Positive
+54,"India's success against poliovirus showed the world that to EndPolio, perseverance and collaboration are vital.  and over 1,300 leading global experts have urged the world to recommit to ending polio. ",0.13333333333333333,0.13333333333333333,Positive
+55,The recent case of polio in New York is a reminder that polio anywhere is a threat everywhere. It's vital for the world to not lose sight of our goal to EndPolio for good. ,0.42613636363636365,0.23409090909090907,Positive
+56,This is great news. Dr. Rajiv Bahl’s commitment to child and maternal health is exemplary. Congratulations on this appointment. ,0.75,0.8,Positive
+57,I loved learning about exciting research underway at  to convert water and carbon dioxide into fuels and fertilizer:  ,0.8,0.5,Positive
+58,It’s hard for even the most promising low-carbon technologies to make it all the way to market. The  Energy Fellows program empowers early-stage innovators like _Ind to grow from their garage and deliver the solutions the world needs to get to zero emissions. ,0.5138888888888888,0.1361111111111111,Positive
+59,"Progress in health, climate, and education is driven by impatient optimists. Great read by @_HannahRitchie. ",0.825,0.30000000000000004,Positive
+60,I was blown away by the creativity and ingenuity at  to meet the energy and sustainability challenges of today and the future. ,0.125,0.0,Neutral
+61,"The  Fellows program supports brilliant scientists working on early-stage climate technologies. Last week, I got to meet the second cohort of fellows and learn about the work they're doing to help the world achieve net-zero emissions. ",0.35555555555555557,0.3,Positive
+62,"This WorldTeachersDay, I’m thinking about Mrs. Caffiere. She was the school librarian at Seattle’s View Ridge Elementary. When I was 9 years old, she took me under her wing and taught me that my love of reading was a strength. To this day, I think about how she changed my life. ",0.5666666666666668,0.3,Positive
+63,"After my visit to the  school of sustainability, I’m even more optimistic that we can develop breakthroughs that will transform our global economy, our lives, and our planet for the better:  ",0.3333333333333333,0.3333333333333333,Positive
+64,I was truly lucky to know Ric Weiland. He was an incredible programmer and an exceptional individual. ,0.7833333333333333,0.475,Positive
+65,"Over the years, I’ve come to know Bono as an incredible storyteller and friend. I’m excited for the world to see him the same way. ",0.5916666666666667,0.425,Positive
+66,"Thanks for dedicating your career to keeping the world informed, . I hope you have a restful sabbatical.",0.2,0.2,Positive
+67,"The world can end this pandemic while also preventing the next. As  shares, ""such changes seem unrealistic given the relentless disappointments of the past three years, but substantial social progress always seems unfeasible until it is actually achieved."" ",0.3194444444444445,-0.11944444444444445,Negative
+68,A moving story about the universal power of books. ,0.0,0.0,Neutral
+69,Congratulations  on the incredible run. I always enjoy the fun conversations and especially loved playing tennis with you in Cape Town. I know you’ve only just begun and can’t wait to see what you do next. ,0.6,0.43333333333333335,Positive
+70,"Very fun to learn more about the new youth world champion of my favorite pastime. Here’s a belated congratulations, Anshul Bhatt! ",0.5536363636363637,0.4128409090909091,Positive
+71,"Leaders like  make me optimistic for our future. Earlier this year, I had the opportunity to meet Farwiza and was so impressed by her work protecting the Leuser ecosystem in Indonesia. ",0.5416666666666666,0.3333333333333333,Positive
+72,"Thanks for bringing levity to such a serious issue yesterday, . I learned a lot from  and  about how we can be better consumers of information and rebuild trust in institutions. ",0.4666666666666667,0.09166666666666667,Positive
+73,   I think everyone was thankful I wasn't the lead chef. I'll be thinking of 's salad and conversation for days.,0.0,0.0,Neutral
+74,": In a historic show of global solidarity, donors raised over $14.25 billion for the . 
+ 
+These funds will sp…",0.0,0.0,Neutral
+75,: . has the juice. corn Goalkeepers2030 ,0.0,0.0,Neutral
+76,: Inspiring to hear President  speak so compellingly about why keeping girls in school longer is a priority in…,0.8,0.4,Positive
+77,"Goalkeepers2030 was filled with laughter, impactful storytelling, and innovative ideas that left me feeling inspired. ",0.6333333333333333,0.3,Positive
+78,"This month, we’re committing $912 million to help replenish the Global Fund through 2026 to expand access to health services around the world and build resilient health systems to prevent future pandemics in the FightForWhatCounts. ",0.0625,0.0,Neutral
+79,"I’ve long said that the  is one of the kindest things people have ever done for one another. It’s also one of the most effective. Programs supported by the Global Fund have reduced the death toll from AIDS, TB, and malaria by 50%, saving more than 50M lives.",0.44000000000000006,0.31,Positive
+80,"It was an honor to see you this morning. Supporting  builds a healthier, safer world – it’s the kindest thing we can do for one another. ",0.25,0.25,Positive
+81,What a night. It’s rare to have so many heroes in one place. Goalkeepers2030 ,0.7,0.4,Positive
+82,I had a chance to connect with  John Kerry to kick off ClimateWeekNYC. We’re both optimistic about recent momentum to accelerate the clean energy transition. ,0.47500000000000003,0.18333333333333335,Positive
+83,"One of my favorite things about Bono is that he loves a good surprise. We had the chance to “photobomb”  activists, hear their  campaign stories, and share the latest progress in malaria research. FightForWhatCounts ",0.8333333333333334,0.5666666666666667,Positive
+84,"For the first time since 2019, the Goalkeepers community is coming together in person. I’m excited to spend time with them and hear about their innovative work to drive progress. Goalkeepers2030 ",0.6944444444444443,0.375,Positive
+85,": Amidst backsliding on the SDGs in the past two years, this interview with  is an optimistic reminder that the mo…",0.25,-0.25,Negative
+86,Congratulations on a phenomenal career. Time to celebrate! ,0.5,0.625,Positive
+87,You've been an incredible friend to me and an inspiration to an entire generation of tennis players. I'm lucky to have seen you work your magic on the court many times. And I'm excited to watch your philanthropic work grow in this next phase of your life. ,0.6583333333333333,0.3726190476190476,Positive
+88,New ways to prevent and treat malaria are within reach. They’ll make it possible—with the right funding and commitment—to end malaria. ,0.4951298701298701,0.21103896103896103,Positive
+89,Providing aid to hungry communities is essential—but it’s not enough to end food insecurity. We also need innovation to create self-sustaining food systems. ,0.5,0.0,Neutral
+90,"Economic inequality is one of the biggest barriers to gender equality. True equality depends not only on a woman’s ability to access money, but also on her ability to fully control it. ",0.6166666666666667,0.18333333333333335,Positive
+91,"Seven years ago, world leaders agreed to 17 ambitious goals to reduce inequality by 2030. The 2022 Goalkeepers report is an essential update on the progress. Goalkeepers2030 ",0.525,0.125,Positive
+92,hint: it has the juice,0.0,0.0,Neutral
+93,"Which crop that is highly sensitive to climate change accounts for around 30% of all the calories people in sub-Saharan Africa eat? 
 
-Vox Populi, Vox Dei. ",0.0,0.0,Neutral
-22, 🤣 but actually,0.1,0.0,Neutral
-23, 🤣,0.0,0.0,Neutral
-24,134M people have seen this poll,0.0,0.0,Neutral
-25, Red Bull does work tbh,0.0,0.0,Neutral
-26,  Definitely need to improve Twitter’s dopamine/cortisol ratio!,0.5,0.0,Neutral
-27,  I agree,0.0,0.0,Neutral
-28, 🤣🤣,0.0,0.0,Neutral
-29,The most entertaining outcome is the most likely – my variant on Occam’s Razor,0.675,0.375,Positive
-30, Twitter search will add feedback loops to improve result rank based on which result you click on &amp; whether you immediately click back (implies wrong result),0.6,-0.43333333333333335,Negative
-31," Notes from last night:
-- Maybe deprecate TLS this week, as only needed if Android app &gt;1 year old.
-- Home mixer computes Home  ~10X faster than Timeline.
-- Ad mixer can greatly improve relevance at cost of lower total ad views. More interesting the ad, more time you look at it.",0.5333333333333333,0.3,Positive
-32, Most accurate would be to require access to phone GPS for location-specific polls,0.5666666666666667,0.45000000000000007,Positive
-33, Yes,0.0,0.0,Neutral
-34,Fascinating to watch Twitter Trump poll!,0.8500000000000001,0.875,Positive
-35,_1x Bot &amp; troll armies might be running out of steam soon. Some interesting lessons to clean up future polls.,0.4416666666666667,0.2888888888888889,Positive
-36, Good question,0.6000000000000001,0.7,Positive
-37, Most amount of people I’ve ever seen in the building by far,0.75,0.3,Positive
-38, 🤣🤣,0.0,0.0,Neutral
-39,   That was certainly my intention too!,0.5714285714285714,0.26785714285714285,Positive
-40,Tesla FSD 10.69.3.1 going to wide release now,0.4,-0.1,Negative
-41,Just leaving Twitter HQ code review ,0.0,0.0,Neutral
-42,_1x The bot attack is impressive to watch!,1.0,1.0,Positive
-43,Trump poll getting ~1M votes/hour!,0.0,0.0,Neutral
-44, Can’t tell if this is parody or real,0.30000000000000004,0.2,Positive
-45,"   Verification through the payment system plus phones, but allowing pseudonyms is the least bad solution I can think of",0.5333333333333333,-0.4999999999999999,Negative
-46," When polls are about a significant question, even those who don’t follow me tend to hear about it. That said, I agree with the idea of an all-user poll. Should also be an all-user by country poll.",0.875,0.375,Positive
-47, Agreed,0.0,0.0,Neutral
-48,"Vox Populi, Vox Dei",0.0,0.0,Neutral
-49,Reinstate former President Trump,0.0,0.0,Neutral
-50,   Too bad,0.6666666666666666,-0.6999999999999998,Negative
-51,  DoJ Antitrust ,0.0,0.0,Neutral
-52," App store fees are obviously too high due to the iOS/Android duopoly. 
-
-It is a hidden 30% tax on the Internet.",0.4370833333333333,-0.032916666666666664,Negative
-53,_com Kind of him to say. I look forward to meeting.,0.9,0.6,Positive
-54, 🤣,0.0,0.0,Neutral
-55,First World Cup match on Sunday! Watch on Twitter for best coverage &amp; real-time commentary.,0.31666666666666665,0.65625,Positive
-56, Exactly,0.25,0.25,Positive
-57, Thanks Marc ❤️,0.2,0.2,Positive
-58, No,0.0,0.0,Neutral
-59,"Note, this applies just to the individual tweet, not the whole account",0.4,0.1,Positive
-60, If only there had been a way … 🤣🤣,1.0,0.0,Neutral
-61,"Kathie Griffin, Jorden Peterson &amp; Babylon Bee have been reinstated.
-
-Trump decision has not yet been made.",0.0,0.0,Neutral
-62,"New Twitter policy is freedom of speech, but not freedom of reach.
-
-Negative/hate tweets will be max deboosted &amp; demonetized, so no ads or other revenue to Twitter. 
-
-You won’t find the tweet unless you specifically seek it out, which is no different from rest of Internet.",0.47651515151515156,0.0037878787878787845,Positive
-63,Freedom Fridays …,0.0,0.0,Neutral
-64, Jazz hands 🤗,0.0,0.0,Neutral
-65,What should Twitter do next?,0.0,0.0,Neutral
-66,_770 🤣,0.0,0.0,Neutral
-67, You don’t say …,0.0,0.0,Neutral
-68, Of course not ❤️,0.0,0.0,Neutral
-69, 🥱,0.0,0.0,Neutral
-70, I stand corrected!,0.0,0.0,Neutral
-71,,0.0,0.0,Neutral
-72,  ?,0.0,0.0,Neutral
-73, You’re welcome,0.9,0.8,Positive
-74," Record numbers of users are logging in to see if Twitter is dead, ironically making it more alive than ever!",0.43333333333333335,0.14166666666666666,Positive
-75, Seriously,0.6666666666666666,-0.3333333333333333,Negative
-76,,0.0,0.0,Neutral
-77,,0.0,0.0,Neutral
-78,🏴‍☠️,0.0,0.0,Neutral
-79, 🤣,0.0,0.0,Neutral
-80,Let that sink in …,0.0,0.0,Neutral
-81,And … we just hit another all-time high in Twitter usage lol,0.6199999999999999,0.48000000000000004,Positive
-82," The best people are staying, so I’m not super worried",0.4833333333333333,0.4166666666666667,Positive
-83,"  Don’t wanna jinx it, but there’s a chance we can keep Twitter alive … ",0.4,0.1,Positive
-84, Thanks for helping out. You’re a lifesaver!,0.2,0.25,Positive
-85, Thanks!,0.2,0.25,Positive
-86,"How do you make a small fortune in social media?
-
-Start out with a large one.",0.2984126984126984,-0.0007936507936508,Negative
-87,_daniel  🤣,0.0,0.0,Neutral
-88," The media constantly writing about Twitter is driving usage to all-time highs, so it’s fine by me!",0.41666666666666663,0.2604166666666667,Positive
-89,  Cybertruck is something special that comes along once in a long while,0.4857142857142857,0.15357142857142858,Positive
-90," Current class-action law is actually a massive tax on the American people and desperately needs reform. It is one of the reasons medication is so expensive in the USA.
-
-Somehow, other countries do just fine without class-action law.",0.5678571428571428,-0.11547619047619048,Negative
-91, The actual attackers in class-action lawsuits are the law firms. They just find someone in the class to be their puppet.,0.1,0.0,Neutral
-92, Ok,0.5,0.5,Positive
-93, We’re working on something that should rank replies automatically,0.9,-0.8,Negative
-94,Twitter is like open-sourcing the news,0.0,0.0,Neutral
-95, Polycule 🔥🔥,0.0,0.0,Neutral
-96, Probably,0.0,0.0,Neutral
-97,_Daily Even TikTok is super dependent on ads,0.3333333333333333,0.16666666666666666,Positive
-98,"SBF is ineffective altruism, but they thought he was saying he was in effective altruism. Easy misunderstanding.",0.8166666666666667,0.5166666666666666,Positive
-99,_daniel  I don’t wanna brag but … it’s true,0.65,0.35,Positive
+You can find the answer here: ",0.9,0.1,Positive
+94,We are at a turning point in the world’s progress on some of the most fundamental challenges facing humanity. Here’s what world leaders need to do to ensure a better future. Goalkeepers2030 ,0.375,0.3333333333333333,Positive
+95,There are so many reasons to be hopeful. Innovations that reduce the burden of disease on children are just some of the many that keep me optimistic. ,0.5,0.5,Positive
+96,"This is great. New Jersey is setting a new standard by taking climate curriculum one step further – not just telling students what’s happening, but also asking them what the world can do about it. ",0.4318181818181818,0.21454545454545454,Positive
+97,Pneumonia is the leading cause of death in children under 5. Inventprise is working to change that:  ,0.0,0.0,Neutral
+98,"I feel honored to have met HM Queen Elizabeth, and I am very sad to hear of her passing. My deepest condolences to the Royal Family and the British people. ",0.5,-0.325,Negative
+99,"Germany is a leading voice in the fight against HIV, TB, and malaria. Once again, they're stepping up by increasing their pledge to the . Germany's commitment to the FightForWhatCounts will help save millions of lives. ",0.0,0.0,Neutral
