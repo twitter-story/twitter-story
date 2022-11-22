@@ -14,10 +14,12 @@ def search_by_UserAndHashtag(user, hashtag):
         df=pd.DataFrame([tweet.full_text for tweet in tweets],columns=['Tweets'])
         All_tweets=''
         x=df["Tweets"]
-        
-        for i in range(5):
-                All_tweets+=f'tweet {i+1} : {x[i]} \n\n '
+        j=1
+        for i in range(100) :
+            if hashtag in x[i] and j<=9:
+                All_tweets+=f'tweet {j} : {x[i]} \n\n '
+                j+=1
         return All_tweets
         # print(f'Tweets for {user} with {hashtag} are:')
         # print(All_tweets)
-#search_by_UserAndHashtag(user,keyword)
+#print(search_by_UserAndHashtag(user,keyword))

@@ -1,6 +1,7 @@
 from tkinter import *
 from features.user_Information import *
-from urllib.request import urlopen
+import urllib.request
+import io
 from PIL import Image, ImageTk
 
 
@@ -10,22 +11,42 @@ def information():
 
 class Information(Frame):
     def user_in(self, user):
+
+        self.canvas.delete('del')
+        
         x = Get_user_Information(user)
-        print(x)
+        # print(x)
 
         All_tweets = ''
         for i, j in x.items():
-            All_tweets += f' {i} : {j} \n\n '
+            if i!='Profile_image':
+                if j!='':
+                    All_tweets += f'{i} : {j}\n\n'
+            else:
+                image_url = j
+
+                with urllib.request.urlopen(image_url) as u:
+                    raw_data = u.read()
+                image = Image.open(io.BytesIO(raw_data))
+                resized_image= image.resize((100,100))
+
+                self.image = ImageTk.PhotoImage(resized_image)
+                self.canvas.create_image(360.0, 62.0, image=self.image , tags='del')
 
         self.canvas.create_text(
-            260.0,
+            430.0,
             12.0,
             anchor="nw",
             text=All_tweets,
-            width=500,
-            fill="#000000",
+            width=300,
+            fill="#111D29",
             font=("Montserrat 10 Bold", 18 * -1),
+            tags='del',
         )
+        
+        
+        self.entry_User.destroy()
+
 
     def __init__(self, parent, controller=None, *args, **kwargs):
         Frame.__init__(self, parent, *args, **kwargs)
@@ -45,19 +66,14 @@ class Information(Frame):
 
         self.canvas.place(x=0, y=0)
 
-        # image_url = "https://pbs.twimg.com/profile_images/1575103661847597065/mG1Vb8Cc_400x400.jpg"
-        # u = urlopen(image_url)
-        # raw_data = u.read()
-        # u.close()
-        # self.canvas.L = ImageTk.PhotoImage(data=raw_data)
+        self.canvas.create_rectangle(
+            280.0, 12.0, 282.0, 500.0, fill="#777777", outline=""
+        )
 
-        # # resized_image = self.canvas.L.resize((300, 205), Image.ANTIALIAS)
 
-        # image_1 = self.canvas.create_image(458.0, 200.0, image=self.canvas.L )
-
-        # # entry_bg_1 = self.canvas.create_image(125.0, 122.0, image=photo)
-
-        entry_User = Entry(
+        self.entry_image_2 = PhotoImage(file="assets/Asset_3.png")
+        self.canvas.create_image(140, 170.0, image=self.entry_image_2)
+        entry_User= Entry(
             self,
             bd=0,
             bg="#EFEFEF",
@@ -65,10 +81,10 @@ class Information(Frame):
             font=("Montserrat Bold", 18 * -1),
             foreground="#777777",
         )
-        entry_User.insert(-1, 'username ')
-        entry_User.place(x=35.0, y=110.0, width=185.0, height=30)
+        entry_User.insert(0,'username')
+        entry_User.place(x=60.0, y=155.0, width=185.0, height=30)
 
-        self.button_Analyze = PhotoImage(file=("assets/Asset_8.png"))
+        self.button_Analyze = PhotoImage(file=("assets/Get_Info.png"))
         self.write_tweet_btn = Button(
             self,
             borderwidth=0,
@@ -78,4 +94,4 @@ class Information(Frame):
             cursor='hand2',
             relief="flat",
         )
-        self.write_tweet_btn.place(x=20.0, y=200, width=208.0, height=47.0)
+        self.write_tweet_btn.place(x=35.0, y=300, width=208.0, height=47.0)

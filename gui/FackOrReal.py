@@ -4,11 +4,11 @@ from features.userName_tweets import *
 from PIL import Image,ImageTk
 
 
-def sentiment():
-    Sentiment()
+def fact():
+    Fact()
 
 
-class Sentiment(Frame):
+class Fact(Frame):
     
     def show_img(self,username):
         df=user_tweets(username)
@@ -22,7 +22,6 @@ class Sentiment(Frame):
         self.new_image= ImageTk.PhotoImage(resized_image)
 
         self.canvas.create_image(250,20, anchor=NW, image=self.new_image,tag='item')
-
 
     def __init__(self, parent, controller=None, *args, **kwargs):
         Frame.__init__(self, parent, *args, **kwargs)
@@ -41,7 +40,7 @@ class Sentiment(Frame):
         self.canvas.place(x=0, y=0)
 
         self.entry_image_2 = PhotoImage(file="assets/Asset_3.png")
-        self.canvas.create_image(140, 170.0, image=self.entry_image_2)
+        self.canvas.create_image(120, 120.0, image=self.entry_image_2)
         entry_User= Entry(
             self,
             bd=0,
@@ -50,8 +49,8 @@ class Sentiment(Frame):
             font=("Montserrat Bold", 18 * -1),
             foreground="#777777",
         )
-        entry_User.insert(0,'username ')
-        entry_User.place(x=60.0, y=155.0, width=185.0, height=30)
+        entry_User.insert(0,'write your text ')
+        entry_User.place(x=35.0, y=110.0, width=185.0, height=30)
 
 
 
@@ -65,4 +64,4 @@ class Sentiment(Frame):
             cursor='hand2',
             relief="flat",
     )
-        self.write_tweet_btn.place(x=35.0, y=300, width=208.0, height=47.0)
+        self.write_tweet_btn.place(x=20.0, y=200, width=208.0, height=47.0)

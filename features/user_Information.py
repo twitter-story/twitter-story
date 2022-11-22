@@ -16,9 +16,9 @@ def Get_user_Information(user):
         'Username': user_Object.name,
         'Location': user_Object.location,
         'Description': user_Object.description,
-        'Followers_count': user_Object.followers_count,
-        'Friends_count': user_Object.friends_count,
-        'Created_at': str(user_Object.created_at),
+        'Followers count': user_Object.followers_count,
+        'Friends count': user_Object.friends_count,
+        'Created at': str(user_Object.created_at),
         # 'Verified': user_Object.verified,
         'Profile_image': user_Image,
         # 'Profile_banner': user_Object.profile_banner_url
