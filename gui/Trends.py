@@ -1,5 +1,5 @@
 from tkinter.constants import ANCHOR, N
-from tkinter import Frame, Canvas, Entry, PhotoImage, N
+from tkinter import Frame, Canvas, Entry, PhotoImage, N ,Button, PhotoImage, messagebox
 from features.trends import trends
 
 
@@ -8,14 +8,14 @@ def trend():
     Trends()
 
 def jo_Trend():
-    jo='Trends in Jordan \n\n'
+    jo=''
     
-    ww='Trends in the world \n\n'
+    ww=''
    
     for i in range (5):
-        jo+=f"{i+1}) {trends()[0][i]} \n\n"
+        jo+=f" {trends()[0][i]} \n\n"
                         
-        ww+=f'{i+1}) {trends()[1][i]} \n\n'
+        ww+=f' {trends()[1][i]} \n\n'
       
     return jo,ww
 
@@ -36,13 +36,51 @@ class Trends(Frame):
             highlightthickness=0,
             relief="ridge",
         )
-        #jo,ww=jo_Trend()
+        jo,ww=jo_Trend()
         canvas.pack()
-        canvas.create_rectangle(10, 10, 340, 500, fill="#1D9BF0", outline="#1D9BF0")
-        canvas.create_text(110, 200,font=('Helvetica','15','bold'), text='jo',fill='white')
 
-        canvas.create_rectangle(390, 10, 770, 500, fill="#1D9BF0", outline="#1D9BF0")
-        canvas.create_text(590, 200,font=('Helvetica','15','bold'), text='ww',fill='white')
+        self.entry_image_5 = PhotoImage(file=("assets/trends_1.png"))
+        entry_bg_5 = canvas.create_image(198, 230.0, image=self.entry_image_5)
+
+        canvas.create_text(
+            120.0,
+            60.0,
+            anchor="nw",
+            text="# Jordan",
+            fill="#1D9BF0",
+            font=("Montserrat Bold", 25 ),
+        )
+
+        canvas.create_rectangle(
+            80.0, 125.0, 310.0, 127.0, fill="#777777", outline=""
+        )
+
+        canvas.create_text(155, 282,font=('Helvetica','15','bold'), text=jo ,fill='#1D9BF0')
+
+
+
+
+
+
+
+        self.entry_image_6 = PhotoImage(file=("assets/trends_1.png"))
+        entry_bg_5 = canvas.create_image(565, 230.0, image=self.entry_image_6)
+
+        canvas.create_text(
+            465.0,
+            60.0,
+            anchor="nw",
+            text="# WorldWide",
+            fill="#1D9BF0",
+            font=("Montserrat Bold", 25 ),
+        )
+
+        canvas.create_rectangle(
+            447.0, 125.0, 677.0, 127.0, fill="#777777", outline=""
+        )
+
+
+        canvas.create_text(522, 282,font=('Helvetica','15','bold'), text=ww ,fill='#1D9BF0')
 
         
         

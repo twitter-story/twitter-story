@@ -1,5 +1,6 @@
 from tkinter import *
 from features.manage_tweets import write_tweet
+import tkinter as tk
 
 
 
@@ -8,6 +9,14 @@ def tweet():
 
 
 class Tweet(Frame):
+    def done(self,tweet):
+        write_tweet(tweet)
+        # print(tweet)
+        confirm = tk.messagebox.showinfo(
+            "Done", "tweeted! 🐦"
+        )
+
+        
     def __init__(self, parent, controller=None, *args, **kwargs):
         Frame.__init__(self, parent, *args, **kwargs)
         self.parent = parent
@@ -44,7 +53,7 @@ class Tweet(Frame):
             self,
             borderwidth=0,
             highlightthickness=0,
-            command=lambda: write_tweet(entry_User.get()),
+            command=lambda: self.done(entry_User.get()),
             image=self.button_tweet,
             cursor='hand2', activebackground="#111D29",
             relief="flat",

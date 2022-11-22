@@ -13,6 +13,7 @@ from gui.Search import Search
 from gui.Trends import Trends
 from gui.Tweet import Tweet
 from gui.sentiment import Sentiment
+from gui.FackOrReal import Fact
 # import welcome
 
 
@@ -140,6 +141,23 @@ class MainWindow(Toplevel):
         )
         self.about_btn.place(x=15.0, y=383.0, width=208.0, height=47.0)
 
+# ############################ fack or Fact ##################################
+
+#         #button_image_6 = PhotoImage(file=("assets/button_23.png"))
+#         self.fact_btn = Button(
+#             self.canvas,
+#             image=button_image_4,
+#             borderwidth=0,
+#             highlightthickness=0,
+#             command=lambda: self.handle_btn_press(self.fact_btn, "fact"),
+#             cursor='hand2', activebackground="#111D29",
+#             relief="flat",
+#         )
+#         self.fact_btn.place(x=15.0, y=433.0, width=215.0, height=47.0)
+
+
+# ############################ fack or Fact ##################################
+
         button_image_5 = PhotoImage(file=("assets/button_23.png"))
         self.exit_btn = Button(
             self.canvas,
@@ -150,6 +168,7 @@ class MainWindow(Toplevel):
             relief="flat",
         )
         self.exit_btn.place(x=14.0, y=441.0, width=215.0, height=47.0)
+        #self.exit_btn.place(x=14.0, y=475.0, width=215.0, height=47.0)
 
 
         self.heading = self.canvas.create_text(
@@ -179,7 +198,8 @@ class MainWindow(Toplevel):
             "abt": About(self),
             "user": Information(self),
             "tweet": Tweet(self),
-            "Sentiment": Sentiment(self)
+            "Sentiment": Sentiment(self),
+            #"fact": Fact(self)
             
         }
 

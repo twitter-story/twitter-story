@@ -8,7 +8,7 @@ def tweet(query):
 # query = "elonmusk"
     # query= input()
     tweets = []
-    limit = 5 # numbers of tweets
+    limit = 10 # numbers of tweets
 
 
     for tweet in sntwitter.TwitterSearchScraper(query).get_items():
